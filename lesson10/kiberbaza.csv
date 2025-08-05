@@ -1,0 +1,1944 @@
+1;Yong’inga qarshi tizimlarni aktiv chora turiga quyidagilardan qaysilari kiradi?;1
+;Yong’inni aniqlash va bartaraf etish tizimi;
+;Minimal darajada yonuvchan materiallardan foydalanish;
+;Yetarlicha miqdorda qo’shimcha chiqish yo’llarini mavjudligi;
+;Yong’inga aloqador tizimlarni to’g’ri madadlanganligi;
+2;Yong’inga qarshi kurashishning faqat aktiv usuli to’g’ri ko’rsatilgan javobni toping?;1
+;"Tutunni aniqlovchilar, alangani aniqlovchilar va issiqlikni aniqlovchilar";
+;Binoga istiqomat qiluvchilarni yong’in sodir bo’lganda qilinishi zarur bo’lgan ishlar bilan tanishtirish;
+;"Minimal darajada yonuvchan materiallardan foydalanish, qo’shimcha etaj va xonalar qurish";
+;Yetarli sondagi qo’shimcha chiqish yo’llarining mavjudligi;
+3;Yong’inga qarshi kurashishning faqat passiv usuliga kiruvchi choralarni to’g’ri ko’rsatilgan javobni toping?;1
+;"Minimal darajada yonuvchan materiallardan foydalanish, qo’shimcha etaj va xonalar qurish";
+;Tutun va alangani aniqlovchilar;
+;"O’t o’chirgich, suv purkash tizimlari";
+;Tutun va alangani aniqlovchilar va suv purkash tizimlari;
+4;Fizik himoyani buzilishiga olib keluvchi tahdidlar yuzaga kelish shakliga ko’ra qanday guruhlarga bo’linadi?;1
+;Tabiy va sun’iy;
+;Ichki va tashqi;
+;Aktiv va passiv;
+;Bir faktorli va ko’p faktorli;
+5;Quyidagilarning qaysi biri faqat tabiiy tahdidlarga misol bo’la oladi?;1
+;"Toshqinlar, yong’in, zilzila";
+;"Bosqinchilik, terrorizm, o’g’irlik";
+;"O’g’irlik, toshqinlar, zilzila";
+;"Terorizim, toshqinlar, zilzila";
+6;Quyidagilarnnig qaysi biri faqat sun’iy tahdidlarga misol bo’la oladi?;1
+;"Bosqinchilik, terrorizm, o’g’irlik";
+;"Toshqinlar, zilzila";
+;"O’g’irlik, toshqinlar, zilzila";
+;"Terorizim, toshqinlar, zilzila";
+7;Kriptotahlil so’ziga berilgan to’g’ri tavsifni toping?;1
+;Maxfiy shifrlarni buzish fani va sanati.;
+;Maxfiy shifrlarni yaratish fani va sanati.;
+;"Maxfiy shifrlarni yaratish, buzish fani va sanati.";
+;Axborotni himoyalash fani va sanati.;
+8;Kriptografiya so’ziga berilgan to’g’ri tavsifni toping?;1
+;Maxfiy shifrlarni yaratish fani va sanati.;
+;Maxfiy shifrlarni yaratish va buzish fani va sanati.;
+;Maxfiy shifrlarni buzish fani va sanati.;
+;Axborotni himoyalash fani va sanati.;
+9;Axborot xavfsizligida zaiflik bu?;1
+;Tahdidga sabab bo’luvchi tashkilot aktivi yoki boshqaruv tizimidagi nuqson.;
+;Tashkilot uchun qadrli bo’lgan ixtiyoriy narsa.;
+;Tizim yoki tashkilotga zarar yetkazishi mumkin bo’lgan istalmagan hodisa.;
+;Noaniqlikning maqsadlarga ta’siri.;
+10;Axborot xavfsizligida aktiv bu?;1
+;Tashkilot yoki foydalanuvchi uchun qadrli bo’lgan ixtiyoriy narsa.;
+;Tizim yoki tashkilotga zarar yetkazishi mumkin bo’lgan istalmagan hodisa.;
+;Noaniqlikning maqsadlarga ta’siri.;
+;U yoki bu faoliyat jarayonida nimaga erishishni xohlashimiz.;
+11;Axborot xavfsizligida tahdid bu?;1
+;Aktivga zarar yetkazishi mumkin bo’lgan istalmagan hodisa.;
+;Noaniqlikning maqsadlarga ta’siri.;
+;U yoki bu faoliyat jarayonida nimaga erishishni xohlashimiz.;
+;Tashkilot uchun qadrli bo’lgan ixtiyoriy narsa.;
+12;Yaxlitlikni ta’minlash bu - ?;1
+;ruxsatsiz yozishdan himoyalash.;
+;ruxsatsiz o’qishdan himoyalash.;
+;ruxsatsiz bajarishdan himoyalash.;
+;ruxsat etilgan amallarni bajarish.;
+13;Foydalanuvchanlikni ta’minlash bu - ?;1
+;ruxsatsiz bajarishdan himoyalash.;
+;ruxsatsiz yozishdan himoyalash.;
+;ruxsatsiz o’qishdan himoyalash.;
+;ruxsat etilgan amallarni bajarish.;
+14;Konfidensiallikni ta’minlash bu - ?;1
+;ruxsatsiz o’qishdan himoyalash.;
+;ruxsatsiz yozishdan himoyalash.;
+;ruxsatsiz bajarishdan himoyalash.;
+;ruxsat etilgan amallarni bajarish.;
+15;Foydalanuvchi yoki subyektni haqiqiyligini tekshirish jarayoni bu?;1
+;Autentifikatsiya;
+;Identifikatsiya;
+;Avtorazatsiya;
+;Ruxsatlarni nazoratlash;
+16;Subyekt identifikatorini tizimga yoki talab qilgan subyektga taqdim etish jarayoni bu?;1
+;Identifikatsiya;
+;Avtorazatsiya;
+;Ruxsatlarni nazoratlash;
+;Autentifikatsiya;
+17;Shaxsni kimdir deb davo qilish jarayoni bu?;1
+;Identifikatsiya;
+;Avtorazatsiya;
+;Ruxsatlarni nazoratlash;
+;Autentifikatsiya;
+18;Foydalanuvchini (yoki biror tomonni) tizimga kirish uchun ruxsati mavjudligini aniqlash jarayoni bu?;1
+;Autentifikatsiya;
+;Identifikatsiya;
+;Avtorazatsiya;
+;Ruxsatlarni nazoratlash;
+19;"Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti bu?";1
+;Kiberxavfsizlik;
+;Axborot xavfsizligi;
+;Konfidensiallik;
+;Maxfiylik;
+20;Qanday tahdidlar passiv hisoblanadi?;1
+;Amalga oshishida axborot strukturasi va mazmunida hech narsani o’zgartirmaydigan tahdidlar;
+;Hech qachon amalga oshirilmaydigan tahdidlar;
+;Amalga oshishida axborot strukturasini o'zgartiradigan tahdidlar;
+;Texnik vositalar bilan bog’liq bo’lgan tahdidlar;
+21;Quyidagi qaysi hujum turi razvedka hujumlari turiga kirmaydi?;1
+;DDos;
+;Paketlarni snifferlash;
+;Portlarni skanerlash;
+;Ping buyrug’ini yuborish;
+22;Trafik orqali axborotni to’plashga harakat qilish razvedka hujumlarining qaysi turida amalga oshiriladi?;1
+;Passiv;
+;DNS izi;
+;Lug’atga asoslangan;
+;Aktiv;
+23;Portlarni va operatsion tizimni skanerlash razvedka hujumlarining qaysi turida amalga oshiriladi?;1
+;Aktiv;
+;Passiv;
+;DNS izi;
+;Lug’atga asoslangan;
+24;"Paketlarni snifferlash, portlarni skanerlash, ping buyrug’ini yuborish qanday hujum turiga misol bo’ladi?";1
+;Razvedka hujumlari;
+;Xizmatdan voz kechishga undash hujumlari;
+;Zararli hujumlar;
+;Kirish hujumlari;
+25;DNS serverlari tarmoqda qanday vazifani amalga oshiradi?;1
+;Xost nomlari va internet nomlarini IP manzillarga o’zgartirish va teskarisini amalga oshiradi;
+;Ichki tarmoqqa ulanishga harakat qiluvchi boshqa tarmoq uchun kiruvchi nuqta vazifasini bajaradi;
+;Tashqi tarmoqqa ulanishga harakat qiluvchi ichki tarmoq uchun chiqish nuqtasi vazifasini bajaradi;
+;Internet orqali ma’lumotlarni almashinuvchi turli ilovalar uchun tarmoq ulanishlarini sozlash funksiyasini amalga oshiradi;
+26;Markaziy xab yoki tugun orqali tarmoqni markazlashgan holda boshqarish qaysi tarmoq topologiyasida amalga oshiriladi?;1
+;Yulduz;
+;Shina;
+;Xalqa;
+;Mesh;
+27;Quyidagilardan qaysilari ananaviy tarmoq turi hisoblanadi?;1
+;"WAN, MAN, LAN";
+;"OSI, TCP/IP";
+;"UDP, TCP/IP, FTP";
+;"Halqa, yulduz, shina, daraxt";
+28;Quyidagilardan qaysilari faqat tarmoq topologiyalari hisoblanadi?;1
+;"Halqa, yulduz, shina, daraxt";
+;"UDP, TCP/IP, FTP";
+;"OSI, TCP/IP";
+;"SMTP, HTTP, UDP";
+29;.... kriptografik shifrlash algoritmlari blokli va oqimli turlarga ajratiladi. Nuqtalar o‘rniga mos so‘zni qo‘ying.;1
+;Simmetrik;
+;Ochiq kalitli;
+;Asimmetrik;
+;Klassik davr;
+30;Xesh funksiyalar - .... funksiya hisoblanadi. Nuqtalar o‘rniga mos so‘zni qo‘ying.;1
+;kalitsiz kriptografik;
+;shifrlovchi kriptografik;
+;ikki kalitli kriptografik;
+;ko’p kalitli kriptografik;
+31;Jumlani to'ldiring. Ma’lumotni mavjudligini yashirishda ..... Nuqtalar o‘rniga mos jumlani qo‘ying.;1
+;steganografik algoritmdan foydalaniladi.;
+;kriptografik algoritmdan foydalaniladi.;
+;kodlash algoritmidan foydalaniladi.;
+;kriptotahlil algoritmidan foydalaniladi.;
+32;Axborotni foydalanuvchiga qulay tarzda taqdim etish uchun ..... amalga oshiriladi. Nuqtalar o‘rniga mos so‘zni qo‘ying.;1
+;kodlash;
+;bir kalitli shifrlash;
+;yashirish;
+;ikki kalitli shifrlash;
+33;Deshifrlash uchun kalit va ..... kerak bo’ladi. Nuqtalar o‘rniga mos so‘zni qo‘ying.;1
+;shifrmatn;
+;ochiq matn;
+;kodlash;
+;alifbo;
+34;"Ma’lumot shifrlansa, natijasi .... bo’ladi. Nuqtalar o‘rniga mos so‘zni qo‘ying.";1
+;shifrmatn;
+;ochiq matn;
+;nomalum;
+;kod;
+35;Axborotni ifodalash uchun foydalaniladigan chekli sondagi belgilar to’plami bu?;1
+;Alifbo;
+;Ochiq matn;
+;Shifrmatn;
+;Kodlash;
+36;Kriptotizimni shifrlash va deshifrlash uchun sozlashda nimadan foydalaniladi?;1
+;Kriptografik kalitdan;
+;Ochiq matndan;
+;Alifbodan;
+;Algoritmdan;
+37;Har qanday vaziyatda biror bir hodisani yuzaga kelish ehtimoli qo’shilsa nima paydo boladi?;1
+;risk paydo bo’ladi.;
+;hujum paydo bo’ladi.;
+;tahdid paydo bo’ladi.;
+;aktiv paydo bo’ladi.;
+38;Qaysi himoya vositasi umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi?;1
+;Tarmoqlararo ekran;
+;Virtual himoyalangan tarmoq;
+;Global tarmoq;
+;Korxona tarmog’i;
+39;Bir biriga osonlik bilan ma’lumot va resurslarni taqsimlash uchun ulangan kompyuterlar guruhi bu?;1
+;Kompyuter tarmog’i;
+;Kompyuter topologiyasi;
+;Tarmoq topologiyasi;
+;Tarmoq arxitekturasi;
+40;Elektron ma’lumotni yo’q qilishning eng xavfsiz usulini ko’rsating?;1
+;Ma’lumot saqlangan saqlagichni bir necha marta takror yozish va o’chirish.;
+;Delete buyrug’idan foydalanib o’chirish.;
+;Shift+Delete buyrug’idan foydalanib o’chirish.;
+;Oddiy formatlash buyrug’idan foydalanish.;
+41;"Har bir obyekt uchun foydalanish ruxsatini belgilash o’rniga, rol uchun obyektlardan foydalanish ruxsatini ko’rsatish amalga oshiriladi. Gap qaysi foydalanishni boshqarish usuli haqida bormoqda?";1
+;RBAC;
+;MAC;
+;DAC;
+;ABAC;
+42;Faqat foydalanishni boshqarish usullari keltirilgan javobni ko’rsating?;1
+;"DAC, MAC";
+;"RBAC, A5/1";
+;"ABAC, RSA";
+;"DAC, RSA";
+43;"Tashkilot axborot aktivlarini va binolaridan foydalanishni kuzatish, qaydlash va nazoratlashga yordam beruvchi xavfsizlik turi?";1
+;Fizik xavfsizlik;
+;Huquqiy xavfsizlik;
+;Tarmoq xavfsizligi;
+;Iqtisodiy xavfsizlik;
+44;Sezar shifri qaysi akslantirishga asoslangan?;1
+;O’rniga qo’yish;
+;O’rin almashtirish;
+;Gammalash;
+;Qo’shish;
+45;Maxfiy xabarni soxta xabar ichiga berkitish orqali aloqani yashirish bilan shug’ullanuvchi fan sohasi?;1
+;Stegonografiya;
+;Kriptografiya;
+;Kriptoanaliz;
+;Kriptologiya;
+46;Asosiy maqsad ma’lumotni maxfiyligini ta’minlash bo’lgan jarayonni ko’rsating?;1
+;Shifrlash;
+;Deshifrlash;
+;Kodlash;
+;Dekodlash;
+47;Ma’lumotni osongina qaytarish uchun hammaga (hattoki hujumchiga ham) ochiq bo’lgan sxema yordamida ma’lumotlarni boshqa formatga o’zgartirish bu?;1
+;Kodlash;
+;Dekodlash;
+;Shifrlash;
+;Deshifrlash;
+48;Hujumchi algoritm (shifrlash algoritmi) haqida barcha ma’lumotlarni bilgan taqdirda ham kalitsiz ochiq matnni tiklashning imkoni bo’lmasligi zarur. Bu qanday tamoil?;1
+;Kerkxofs prinsipi;
+;Konfidensiallik prinsipi;
+;Yaxlitlik prinsipi;
+;Foydalanuvanlik prinsipi;
+49;Axborotning konfidensialligi va butunligini ta’minlash uchun ikki uzel orasida himoyalangan tunelni quruvchi himoya vositasi bu?;1
+;Virtual Private Network;
+;Firewall;
+;Antivirus;
+;IDS;
+50;Foydalanuvchi parollari bazada qanday ko’rinishda saqlanadi?;1
+;Xeshlangan ko’rinishda.;
+;Shifrlangan ko’rinishda.;
+;Ochiq holatda.;
+;Bazada saqlanmaydi.;
+51;Quyidagilardan qaysi biri har ikkala tomonning haqiqiyligini tekshirish jarayonini ifodalaydi?;1
+;Ikki tomonlama autentifikatsiya.;
+;Ikki faktorli autentifikatsiya.;
+;Ko’p faktorli autentifikatsiya.;
+;Biometrik autentifikatsiya.;
+52;Tokenga asoslangan autentifikatsiya usulining asosiy kamchiligini ayting?;1
+;Doimo xavfsiz saqlab olib yurish zaruriyati.;
+;Doimo esada saqlash zaruriyati.;
+;Qalbakilashtirish muammosi mavjudligi.;
+;Almashtirib bo’lmaslik;
+53;Biror narsani bilishga asoslangan autentifikatsiya deyilganda quyidagilardan qaysilar tushuniladi.;1
+;"PIN, Parol.";
+;"Token, mashinaning kaliti.";
+;"Yuz tasviri, barmoq izi.";
+;Biometrik parametrlar.;
+54;Parolga asoslangan autentifikatsiya usulining asosiy kamchiligini ko’rsating?;1
+;Esda saqlash zaruriyati.;
+;Birga olib yurish zaririyati.;
+;Almashtirib bo’lmaslik.;
+;Qalbakilashtirish mumkinligi.;
+55;Tizim tomonidan foydalanuvchilarga imtiyozlar berish jarayoni bu?;1
+;Avtorizatsiya.;
+;Autentifikatsiya.;
+;Identifikatsiya.;
+;Ro’yxatga olish.;
+56;Foydalanuvchini haqiqiyligini tekshirish jarayoni bu?;1
+;Autentifikatsiya.;
+;Identifikatsiya.;
+;Avtorizatsiya.;
+;Ro’yxatga olish.;
+57;Foydalanuvchini tizimga tanitish jarayoni bu?;1
+;Identifikatsiya.;
+;Autentifikatsiya.;
+;Avtorizatsiya.;
+;Ro’yxatga olish.;
+58;"Tarmoqning tuzilishini aniqlab, tarmoqning mantiqiy va fizik joylashuvini hisoblaydi. Gap nima haqida bormoqda?";1
+;Tarmoq topologiyasi;
+;Tarmoq modeli;
+;Tarmoq arxitekturasi;
+;Tarmoq protokoli;
+59;OSI modelining eng quyi sathi bu?;1
+;Fizik sath;
+;Kanal sathi;
+;Tarmoq sathi;
+;Transport sathi;
+60;Faqat tarmoq modellari keltirilgan qatorni ko’rsating?;1
+;"OSI, TCP/IP";
+;"OSI, RSA";
+;"TCP/IP, IPSec";
+;"OSI, ISO";
+61;Parollarni saqlashda nega shifrlashning o’rniga xeshlash amalidan foydalaniladi?;1
+;Shifrlash kalitini saqlash zaruriyati mavjudligi sababli;
+;Barcha xesh funksiyalar xavfsiz bo'lganligi bois;
+;Barcha shifrlash algoritmlari xavfsiz emasligi bois;
+;Barcha shifrlash algoritmlari tezkor emasligi bois;
+62;A5/1 oqimli shifrlash algoritmining bir siklida ko’pi bilan nechta registr siljiydi?;1
+;3;
+;2;
+;1;
+;10;
+63;A5/1 oqimli shifrlash algoritmining bir siklida kamida nechta registr siljiydi?;1
+;2;
+;3;
+;1;
+;0;
+64;64 bitli kalitni talab qiluvchi oqimli shifrlash algoritmini ko’rsating?;1
+;A5/1;
+;RSA;
+;DES;
+;AES;
+65;Ochiq matn uzunligiga teng bo’lgan psevdotasodifiy ketma-ketlikni talab qiluvchi shifrlash usuli bu?;1
+;Simmetrik oqimli;
+;Simmetrik blokli;
+;Ochiq kalitli;
+;Assimetrik;
+66;Yaratishda psevdotasodifiy sonlar generatoriga asoslanuvchi kriptografik shifrlash usuli bu?;1
+;Simmetrik oqimli;
+;Simmetrik blokli;
+;Ochiq kalitli;
+;Assimetrik;
+67;Shaxsiy simsiz tarmoqlar qo’llanish sohasini belgilang.;1
+;Tashqi qurilmalar kabellarining o’rnida;
+;"Binolar, korxonalar va internet orasida belgilangan simsiz bog’lanish";
+;Butun dunyo bo’yicha internetdan foydalanishda;
+;Simli tarmoqlarni mobil kengaytirish;
+68;Tashkilotlardagi kadrlar toifasiga maksimal darajada yaqinlashtirishga harakat qiluvchi foydalanishni boshqarishni usuli bu?;1
+;rolga asoslangan foydalanishni boshqarish;
+;mandatli foydalanishni boshqarish;
+;diskretsion foydalanishni boshqarish;
+;attributga asoslangan foydalanishni boshqarish;
+69;Esda saqlashni va olib yurishni talab etmaydigan autentifikatsiya usuli bu?;1
+;biometrik autentifikatsiya.;
+;parolga asoslangan autentifikatsiya.;
+;tokenga asoslangan autentifikatsiya.;
+;ko’p faktorli autentifikatsiya.;
+70;Shifrlash va deshifrlashda turli kalitlardan foydalanuvchi shifrlar bu?;1
+;ochiq kalitli shifrlar.;
+;simmetrik shifrlar.;
+;bir kalitli shifrlar;
+;xesh funksiyalar.;
+71;A5/1 shifri bu?;1
+;oqimli shifr.;
+;blokli shifr.;
+;ochiq kalitli shifr.;
+;asimmetrik shifr;
+72;Ochiq matn qismlari(bloklari)ni takroriy shifrlovchi algoritmlar bu?;1
+;blokli shifrlar;
+;oqimli shifrlash;
+;ochiq kalitli shifrlar;
+;asimmetrik shifrlar;
+73;Axborotni mavjudligini yashirish bilan shug’ullanuvchi fan sohasi bu?;1
+;steganografiya.;
+;kriptografiya.;
+;kodlash.;
+;kriptotahlil.;
+74;Ikki kalitli kriptotizim bu?;1
+;ochiq kalitli kriptotizim.;
+;simmetrik kriptotizim.;
+;xesh funksiyalar.;
+;MAC tizimlari.;
+75;Ma’lumotni shifrlash va deshifrlashda yagona kalitdan foydalanuvchi tizim bu?;1
+;simmetrik kriptotizim.;
+;ochiq kalitli kriptotizim.;
+;asimetrik kriptotizim.;
+;xesh funksiyalar.;
+76;Asosiy fayl tizimining ustida joylashgan kriptografik fayl tizimidan foydalanadi. Gap qaysi shifrlash usuli xususida bormoqda?;1
+;Faylni shifrlash;
+;Apparat shifrlash;
+;Dasturiy shifrlash;
+;Diskni shifrlash;
+77;"Faylga asoslangan holda kalitlarni boshqarish, ya’ni, har bir fayl uchun turli kalitlardan foydalanadi. Gap qaysi shifrlash usuli xususida bormoqda?";1
+;Faylni shifrlash;
+;Apparat shifrlash;
+;Dasturiy shifrlash;
+;Diskni shifrlash;
+78;Asosan disk ishlab chiqaruvchilar tomonidan taklif etiladi. Gap qaysi shifrlash usuli xususida bormoqda?;1
+;Diskni shifrlash;
+;Faylni shifrlash;
+;Apparat shifrlash;
+;Dasturiy shifrlash;
+79;"Diskdagi barcha ma’lumotlarni (master boot record, (MBR) bilan) yoki MBRsiz shifrlashni amalga oshiradi. Gap qaysi shifrlash usuli xususida bormoqda?";1
+;Diskni shifrlash;
+;Faylni shifrlash;
+;Apparat shifrlash;
+;Dasturiy shifrlash;
+80;Foydalanuvchi shaxsiy xabarlarni alohida shifrlashni unutgan vaqtlarda juda qo’l keladi. Gap qaysi shifrlash usuli xususida bormoqda?;1
+;Diskni shifrlash;
+;Faylni shifrlash;
+;Apparat shifrlash;
+;Dasturiy shifrlash;
+81;"Agar simmetrik oqimli shifrlash algoritmida kiritilgan ochiq matn uzunligi 256 bitga teng bo’lsa, shifrmatn uzunligi necha bit bo’ladi?";1
+;256;
+;128;
+;4;
+;64;
+82;"Agar simmetrik blokli shifrlash algoritmida kiritilgan ochiq matn uzunligi 256 bitga teng bo’lsa, shifrmatn uzunligi necha bit bo’ladi?";1
+;256;
+;128;
+;4;
+;64;
+83;"Agar A5/1 shifrlash algoritmida kiritilgan ochiq matn uzunligi 128 bitga teng bo’lsa, shifrmatn uzunligi necha bit bo’ladi?";1
+;128;
+;2;
+;256;
+;32;
+84;"Agar A5/1 shifrlash algoritmida kiritilgan ochiq matn uzunligi 256 bitga teng bo’lsa, shifrmatn uzunligi necha bit bo’ladi?";1
+;256;
+;128;
+;4;
+;64;
+85;Raund tushunchasi quyidagi qaysi shifr turlariga tegishli?;1
+;Simmetrik blokli;
+;Simmetrik oqimli;
+;Ochiq kalitli;
+;Assimetrik;
+86;IP manzilni domen nomlariga yoki aksincha almashtirishni amalga oshiruvchi xizmat bu?;1
+;DNS;
+;TCP/IP;
+;OSI;
+;UDP;
+87;Hajmi bo’yicha eng kichik hisoblangan tarmoq turi bu?;1
+;PAN;
+;LAN;
+;CAN;
+;MAN;
+88;Kiberjinoyatchilik bu - ?;1
+;Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat.;
+;"Kompyuterlar bilan bog’liq falsafiy soha bo’lib, foydalanuvchilarning xatti-harakatlari, kompyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko’rsatishini o’rganadi.";
+;"Hisoblashga asoslangan bilim sohasi bo’lib, buzg’unchilar mavjud bo’lgan sharoitda amallarni kafolatlash uchun o’zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.";
+;"Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti.";
+89;Kiberetika bu - ?;1
+;"Kompyuterlar bilan bog’liq falsafiy soha bo’lib, foydalanuvchilarning xatti-harakatlari, kompyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko’rsatishini o’rganadi.";
+;Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat.;
+;"Hisoblashga asoslangan bilim sohasi bo’lib, buzg’unchilar mavjud bo’lgan sharoitda amallarni kafolatlash uchun o’zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.";
+;"Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti.";
+90;Jumlani to’ldiring. Kriptografik himoya axborotning ... xususiyatini ta’minlamaydi.;1
+;Foydalanuvchanlik;
+;Butunlik;
+;Maxfiylik;
+;Autentifikatsiya;
+91;Jumlani to’ldiring. Parol kalitdan .... farq qiladi.;1
+;tasodifiylik darajasi bilan;
+;uzunligi bilan;
+;"parol ochiq va yopiq ko’rinishda bo’ladi, kalit esa faqat ochiq bo’ladi";
+;samaradorligi bilan;
+92;"Jumlani to’ldiring. Agar axborotning o’g’irlanishi moddiy va ma’naviy boyliklarning yo’qotilishiga olib kelsa, u ....";1
+;jinoyat sifatida baholanadi.;
+;rag’bat hisoblanadi.;
+;o’zini ko’rsatish hisoblanadi.;
+;guruhlar kurashi hisoblanadi.;
+93;Jumlani to’ldiring. Simli va simsiz tarmoqlar orasidagi asosiy farq ...;1
+;tarmoq chetki nuqtalari orasidagi mutlaqo nazoratlamaydigan xudud mavjudigi.;
+;tarmoq chetki nuqtalari orasidagi xududning kengligi.;
+;himoya vositalarining chegaralanganligi.;
+;himoyani amalga oshirish imkoniyati yo’qligi.;
+94;Jumlani to’ldiring. Simmetrik shifrlash algoritmlari ochiq ma’lumotdan foydalanish tartibiga ko’ra ...;1
+;blokli va oqimli turlarga bo’linadi.;
+;bir kalitli va ikki kalitli turlarga bo’linadi.;
+;Feystel tarmog’iga asoslangan va SP tarmog’iga asoslangan turlarga bo’linadi.;
+;murakkablikka va tizimni nazariy yondoshuvga asoslangan turlarga bo’linadi.;
+95;Jumlani to’ldiring. Axborot xavfsizligiga bo’ladigan ... tahdidlari maqsadli (atayin) tahdidlar deb ataladi.;1
+;strukturalarni ruxsatsiz modifikatsiyalash;
+;tabiy ofat va avariya;
+;texnik vositalarning buzilishi va ishlamasligi;
+;foydalanuvchilar va xizmat ko’rsatuvchi hodimlarning hatoliklari;
+96;Jumlani to’ldiring. Autentifikatsiya tizimlari asoslanishiga ko’ra ... turga bo’linadi.;1
+;3;
+;2;
+;4;
+;5;
+97;Tarmoqdagi barcha kompyuter va tugunlar bir-biri bilan o’zaro bog’langan bo’ladi. Gap qaysi topologiya haqida bormoqda?;1
+;Mesh;
+;Halqa;
+;Daraxt;
+;Yulduz;
+98;Tarmoqda har bir kompyuter yoki tugun markaziy tugunga individual bog’langan bo’ladi. Gap qaysi topologiya haqida bormoqda?;1
+;Yulduz;
+;Shina;
+;Halqa;
+;Daraxt;
+99;Tarmoqdagi kompyuterlarga kabel orqali ulangan markaziy xabdan (tugun) iborat topologiya bu?;1
+;Yulduz;
+;Shina;
+;Halqa;
+;Daraxt;
+100;Ochiq kalitli kriptotizimda ma’lumotga qo’yilgan imzoni tekshirish qaysi kalit yordamida amalga oshiriladi?;1
+;Yuboruvchining ochiq kaliti;
+;Yuboruvchining shaxsiy kaliti;
+;Qabul qiluvchining ochiq kaliti;
+;Qabul qiluvchining shaxsiy kaliti;
+101;Ochiq kalitli kriptotizimda ma’lumotga imzo qo’yish qaysi kalit yordamida amalga oshiriladi?;1
+;Yuboruvchining shaxsiy kaliti;
+;Qabul qiluvchining ochiq kaliti;
+;Qabul qiluvchining shaxsiy kaliti;
+;Yuboruvchining ochiq kaliti;
+102;Ochiq kalitli shifrlash algoritmida shifrmatnni deshifrlash qaysi kalit yordamida amalga oshiriladi?;1
+;Qabul qiluvchining shaxsiy kaliti;
+;Yuboruvchining ochiq kaliti;
+;Yuboruvchining shaxsiy kaliti;
+;Qabul qiluvchining ochiq kaliti;
+103;Ochiq kalitli shifrlash algoritmida ma’lumotni shifrlab yuborish qaysi kalit yordamida amalga oshiriladi?;1
+;Qabul qiluvchining ochiq kaliti;
+;Qabul qiluvchining shaxsiy kaliti;
+;Yuboruvchining ochiq kaliti;
+;Yuboruvchining shaxsiy kaliti;
+104;Bir xil baroshlilikka ega bo’lganida quyidagi algoritmlardan qaysi birida kalit uzunligi eng katta bo’ladi?;1
+;RSA;
+;AES;
+;A5/1;
+;DES;
+105;"Jumlani to’ldiring. .... - muhim bo’lgan axborotni nusxalash yoki saqlash jarayoni bo’lib, bu ma’lumot yo’qolgan vaqtda qayta tiklash imkoniyatini beradi.";1
+;Ma’lumotlarni zaxira nusxalash;
+;Kriptografik himoya;
+;VPN;
+;Tarmoqlararo ekran;
+106;Jumlani to’ldiring. ... texnologiyasi lokal simsiz tarmoqlarga tegishli.;1
+;WI-FI;
+;WI-MAX;
+;GSM;
+;Bluetooth;
+107;Fizik ko'rinishdagi axborot va axborot tashuvchilarni yo’q qilish usullari orasidan ekologik jihatdan ma’qullanmaydigan va maxsus joy talab qiladigan usul qaysi?;1
+;Yoqish;
+;Maydalash;
+;Ko’mish;
+;Shreder vositasida yo'q qilish;
+108;"1. Agar ob’ektning xavfsizlik darajasi sub’ektning xavfsizlik darajasidan kichik bo’lsa, u holda o’qishga ruxsat beriladi.";2
+;"2. Agar sub’ektning xavfsizlik darajasi ob’ektning xavfsizlik darajasida bo’lsa, u holda yozishga ruxsat beriladi. Ushbu qoidalar axborotni qaysi xususiyatini ta’minlashga qaratilgan?";
+;Konfidensiallikni.;
+;Foydalanuvchanlikni.;
+;Butunlikni.;
+;Ishonchlilikni.;
+109;Foydalanishni boshqarishning qaysi usuli ob’ektlar va sub’ektlarni klassifikatsiyalashga asoslangan?;2
+;Mandatli foydalanishni boshqarish.;
+;Diskretsion foydalanishni boshqarish.;
+;Rolga asoslangan foydalanishni boshqarish.;
+;Attributga asoslangan foydalanishni boshqarish.;
+110;6 XOR 6 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;0;
+;36;
+;12;
+;6;
+111;2 XOR 2 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;0;
+;4;
+;2;
+;8;
+112;5 XOR 8 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;13;
+;3;
+;40;
+;10;
+113;5 XOR 7 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;2;
+;12;
+;35;
+;10;
+114;5 XOR 6 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;3;
+;11;
+;30;
+;10;
+115;5 XOR 5 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;0;
+;10;
+;25;
+;1;
+116;Jumlani to’ldiring. Sezar shifri .... akslantirishga asoslangan.;2
+;o’rniga qo’yish;
+;o’rin almashtirish;
+;ochiq kalitli;
+;kombinatsion;
+117;4 XOR 7 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;3;
+;11;
+;28;
+;16;
+118;4 XOR 6 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;2;
+;10;
+;24;
+;8;
+119;5 XOR 4 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;1;
+;9;
+;20;
+;8;
+120;4 XOR 4 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;0;
+;16;
+;8;
+;4;
+121;3 XOR 6 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;5;
+;18;
+;9;
+;3;
+122;3 XOR 5 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;6;
+;8;
+;15;
+;9;
+123;3 XOR 4 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;7;
+;12;
+;9;
+;16;
+124;3 XOR 3 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;0;
+;9;
+;6;
+;3;
+125;Jumlani to’ldiring. ... kompyuter davriga tegishli shifrlarga misol bo’la oladi.;2
+;"DES, AES shifri";
+;Sezar shifri;
+;Kodlar kitobi;
+;Enigma shifri;
+126;2 XOR 6 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;4;
+;12;
+;8;
+;6;
+127;Jumlani to’ldiring. Ma’lumotni uzatishda kriptografik himoya .....;2
+;konfidensiallik va butunlikni ta’minlaydi.;
+;konfidensiallik va foydalanuvchanlikni ta’minlaydi.;
+;foydalanuvchanlik va butunlikni ta’minlaydi.;
+;faqat konfidensiallikni ta’minlaydi.;
+128;2 XOR 5 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;7;
+;10;
+;3;
+;4;
+129;2 XOR 4 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;6;
+;2;
+;8;
+;4;
+130;2 XOR 3 = ? Natijani hisoblang? Sonlar 10 lik sanoq tizimida berilgan.;2
+;1;
+;5;
+;6;
+;9;
+131;Jumlani to’ldiring. Ma’lumotni konfidensialligini ta’minlash uchun ..... zarur.;2
+;shifrlash;
+;kodlash;
+;dekodlash;
+;deshifrlash;
+132;Parollar 10 xonali uzunlikka va har bir xonasi uchun 16 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;16^10;
+;10^16;
+;160;
+;26;
+133;Parollar 10 xonali uzunlikka va har bir xonasi uchun 12 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;12^10;
+;10^12;
+;120;
+;22;
+134;Parollar 10 xonali uzunlikka va har bir xonasi uchun 14 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;14^10;
+;10^14;
+;140;
+;24;
+135;Parollar 10 xonali uzunlikka va har bir xonasi uchun 8 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;8^10;
+;10^8;
+;80;
+;18;
+136;Parollar 8 xonali uzunlikka va har bir xonasi uchun 16 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;16^8;
+;8^16;
+;24;
+;128;
+137;Parollar 8 xonali uzunlikka va har bir xonasi uchun 14 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;14^8;
+;8^14;
+;22;
+;112;
+138;Parollar 8 xonali uzunlikka va har bir xonasi uchun 12 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;12^8;
+;8^12;
+;20;
+;96;
+139;Parollar 8 xonali uzunlikka va har bir xonasi uchun 10 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;10^8;
+;8^10;
+;80;
+;18;
+140;Parollar 6 xonali uzunlikka va har bir xonasi uchun 16 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;16^6;
+;6^16;
+;22;
+;96;
+141;Parollar 6 xonali uzunlikka va har bir xonasi uchun 12 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;12^6;
+;6^12;
+;18;
+;72;
+142;Parollar 6 xonali uzunlikka va har bir xonasi uchun 10 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;10^6;
+;6^10;
+;60;
+;16;
+143;Parollar 6 xonali uzunlikka va har bir xonasi uchun 8 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;8^6;
+;6^8;
+;48;
+;14;
+144;Parollar 4 xonali uzunlikka va har bir xonasi uchun 16 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;16^4;
+;4^16;
+;20;
+;64;
+145;Jumlani to’ldiring. Denial of service (DOS) hujumi axborotni .... xususiyatini buzushga qaratilgan.;2
+;foydalanuvchanlik;
+;butunlik;
+;konfidensiallik;
+;ishonchlilik;
+146;Parollar 4 xonali uzunlikka va har bir xonasi uchun 12 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;12^4;
+;4^12;
+;48;
+;16;
+147;Parollar 4 xonali uzunlikka va har bir xonasi uchun 10 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;10^4;
+;4^10;
+;40;
+;14;
+148;Parollar 4 xonali uzunlikka va har bir xonasi uchun 8 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;8^4;
+;4^8;
+;32;
+;12;
+149;Jumlani to’ldiring. Hujumchi kabi fikrlash ... kerak.;2
+;bo’lishi mumkin bo'lgan xavfni oldini olish uchun;
+;kafolatlangan amallarni ta’minlash uchun;
+;"ma’lumot, axborot va tizimdan foydalanish uchun";
+;ma’lumotni aniq va ishonchli ekanligini bilish uchun;
+150;2 lik sanoq tizimida 11011 soniga 11010 sonini 2 modul bo’yicha qo’shing?;2
+;1;
+;10000;
+;1100;
+;11111;
+151;Parollar 6 xonali uzunlikka va har bir xonasi uchun 32 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;32^6;
+;6^32;
+;6!;
+;32!;
+152;Parollar 8 xonali uzunlikka va har bir xonasi uchun 64 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;64^8;
+;8^64;
+;8!;
+;64!;
+153;Parollar 10 xonali uzunlikka va har bir xonasi uchun 26 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;26^10;
+;10^26;
+;10!;
+;26!;
+154;Parollar 8 xonali uzunlikka va har bir xonasi uchun 26 ta turli belgilar bo’lishi mumkin bo’lgan jami parollar soni nechta?;2
+;26^8;
+;8^26;
+;26!;
+;8!;
+155;Qaysi biometrik parametrning universallik (biometrik parametrni barcha foydalanuvchilarda bo’lishi) darajasi eng katta?;2
+;Yuz tasviri;
+;Barmoq izi;
+;Ko’z qorachig’i;
+;Qo’l kaftining shakli;
+156;Autentifikatsiya faktorini yo’qolgan taqdirda qayta tiklash qaysi usul uchun eng arzon?;2
+;Biror nimani bilishga asoslangan;
+;Biror narsaga egalik qilishga asoslangan;
+;Biometrik parametr;
+;Sizning biror narsangizga asoslangan;
+157;"C=P XOR K - bir martali bloknotda shifrlash funksiyasi bo’lsa, unga mos deshifrlash funksiyasini ko’rsating? Bu yerda, P - ochiq matn, K - kalit va C - shifrmatn.";2
+;P = C XOR K;
+;P = C - K;
+;P = C AND K;
+;P = C OR K;
+158;1 va 2 - jahon urishi davriga oid shifrlarni ko’rsating?;2
+;"Zimmermann telegrami, Enigma shifri";
+;"DES, AES, GOST 28147-89";
+;"IDEA, A5/1, RC4";
+;"RSA, El-Gamal";
+159;"Qaysi akslantirishda ochiq matn belgilarining o’rni biror qoidaga ko’ra o’zaro almashtirilib, shifr matn hosil qilinadi?";2
+;O’rin almashtirish;
+;Gammalash;
+;Qo’shish;
+;Bir alifboli o’rniga qo’yish;
+160;Qaysi akslantirishda ochiq matndagi belgilarning takrorlanish chastotasi shifrmatndagi belgilarda ham bir xil bo’ladi?;2
+;Bir alifboli o’rniga qo’yish;
+;O’rin almashtirish;
+;Gammalash;
+;Qo’shish;
+161;RSA algoritmida deshifrlash ifodasini toping?;2
+;M=(C^d)modN;
+;M=(C^e)modN;
+;M=(C^d)modf(N);
+;M=(C^d)modq;
+162;RSA algoritmida shifrlash ifodasini toping?;2
+;C=(M^e)modN;
+;C=(M^d)modN;
+;C=(M^e)modf(N);
+;C=(M^e)modq;
+163;A5/1 oqimli shifrlash algoritmida dastlabki kalit uzunligi nechi bitga teng?;2
+;64;
+;128;
+;192;
+;256;
+164;Steganografiya ma’lumotni qanday himoyalaydi?;2
+;Maxfiy xabarni soxta xabar ichiga berkitish orqali.;
+;Maxfiy xabarni kriptografik kalit yordamida shifrlash orqali.;
+;Maxfiy xabarni shifrlash orqali.;
+;Maxfiy xabarni kodlash orqali.;
+165;2 lik sanoq tizimida 11011 soniga 00100 sonini 2 modul bo’yicha qo’shing?;2
+;11111;
+;10101;
+;11100;
+;1001;
+166;2 lik sanoq tizimida 11111 soniga 11010 sonini 2 modul bo’yicha qo’shing?;2
+;101;
+;10000;
+;1100;
+;11111;
+167;Elektron raqamli imzo muolajalarini ko’rsating?;2
+;Imzoni shakllantirish va imkoni tekshirish.;
+;Shifrlash va deshifrlash.;
+;Imzoni xeshlash va xesh matnni deshifrlash.;
+;Imzoni shakllartirish va xeshlash.;
+168;Yaratishda biror matematik muammoga asoslanuvchi shifrlash algoritmini ko’rsating?;2
+;Ochiq kalitli shifrlar.;
+;Simmetrik shifrlar.;
+;Blokli shifrlar.;
+;Oqimli shifrlar.;
+169;Biror faoliyat turi bilan bog’liq harakatlar va majburiyatlar to’plami bu?;2
+;Rol.;
+;Imtiyoz.;
+;Daraja.;
+;Imkoniyat.;
+170;"1. Agar ob’ektning xavfsizlik darajasi sub’ektning xavfsizlik darajasidan kichik bo’lsa, u holda yozishga ruxsat beriladi.";2
+;"2. Agar sub’ektning xavfsizlik darajasi ob’ektning xavfsizlik darajasida bo’lsa, u holda o’qishga ruxsat beriladi. Ushbu qoidalar axborotni qaysi xususiyatini ta’minlashga qaratilgan?";
+;Butunlikni.;
+;Konfidensiallikni.;
+;Foydalanuvchanlikni.;
+;Maxfiylikni.;
+171;Faqat ob’ektning egasi tomonidan foydalanishga mos bo’lgan mantiqiy foydalanish usulini ko’rsating?;2
+;Diskretsion foydalanishni boshqarish.;
+;Mandatli foydalanishni boshqarish.;
+;Rolga asoslangan foydalanishni boshqarish.;
+;Attributga asoslangan foydalanishni boshqarish.;
+172;Faqat tokenga asoslangan autentifikatsiya usuliga qaratilgan hujumlarni ko’rsating?;2
+;"Fizik o’g’irlash, mobil qurilmalarda zararli dasturlardan foydalanishga asoslangan hujumlar";
+;"Parollar lug’atidan foydalanish asosida hujum, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum";
+;"Fizik o’g’irlash, yelka orqali qarash hujumi, zararli dasturlardan foydalanishga asoslangan hujumlar";
+;"Parollar lug’atidan foydalanish asosida hujum, bazadagi parametrni almashtirish hujumi, zararli dasturlardan foydalanish asosida hujum";
+173;Faqat parolga asoslangan autentifikatsiya usuliga qaratilgan hujumlarni ko’rsating?;2
+;"Parollar lug’atidan foydalanish asosida hujum, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum.";
+;"Tokenni fizik o’g’irlash hujumi, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum.";
+;"Parollar lug’atidan foydalanish asosida hujum, yelka orqali qarash hujumi, biometrik parametrni qalbakilashtirish hujumi.";
+;"Parollar lug’atidan foydalanish asosida hujum, bazadagi biometrik parametrni almashtirish hujumi, zararli dasturlardan foydanish asosida hujum.";
+174;Qaysi biometrik parametr eng yuqori takrorlanmaslik xususiyatiga ega?;2
+;Ko’z qorachig’i.;
+;Yuz tasviri.;
+;Barmoq izi.;
+;Qo’l shakli.;
+175;Qaysi ochiq kalitli algoritm katta sonni faktorlash muammosiga asoslanadi?;2
+;RSA algoritmi.;
+;El-Gamal algoritmi.;
+;DES.;
+;TEA.;
+176;Quyidagi tizimlardan qaysi biri rad etishdan himoyani ta’minlaydi.;2
+;Elektron raqamli imzo tizimi.;
+;MAC tizimlari.;
+;Simmetrik shifrlash tizimlari.;
+;Xesh funksiyalar.;
+177;"Odatda mavjud bo’lgan IP - paket to’liq shifrlanib, unga yangi IP saplavha bepiladi. Ushbu amal qaysi himoya vositasida amalga oshiriladi?";2
+;Virtual xususiy tarmoq;
+;Tarmoqlararo ekran;
+;Antivirus vositasi;
+;Diskni shifrlash vositasi;
+178;"Mijozlar, foydalanuvchilar va tashkilotlarda mavjud bo’lgan biror xizmatni cheklashga urinuvchi hujum bu?";2
+;Xizmatdan voz kechishga undash hujumi;
+;Razvedka hujumi;
+;Kirish hujumi;
+;Spufing hujumi;
+179;"Xavfsizlik bo’shlig’i bo’lib, turli foydalanuvchilarni autentifikatsiyalash usullarini aylanib o’tib hujumchiga tizimga kirish imkoniyatini taqdim etadi. Gap nima haqida bormoqda?";2
+;Zaiflik;
+;Hujum;
+;Aktiv;
+;Tahdid;
+180;"Paydo bo’lishi tasodifiy, qasddan yoki boshqa harakatning ta’sirida bo’lishi mumkin bo’lgan hodisa bu?";2
+;Tahdid;
+;Zaiflik;
+;Hujum;
+;Aktiv;
+181;Parolga xos bo’lmagan xususiyatni ko’rsating?;2
+;Klaviatura orqali barcha kiritiluvchi qiymatlarni qabul qiladi.;
+;Faqat pechat qilinuvchi belgilarni qabul qiladi.;
+;Ixtiyoriy uzunlikda bo’lishi mumkin.;
+;PIN kodni parolni xususiy holati sifatida qarash mumkin.;
+182;"A5/1 shifrlash algoritmida registrlar siljiganidan keyingi holat: x18=0, y21=1 va z22=1 ga teng bo’lsa, hosil bo’lgan psevdotasodifiy qiymatni ko’rsating?";2
+;0;
+;1;
+;11;
+;110;
+183;"A5/1 shifrlash algoritmida registrlar siljiganidan keyingi holat: x18=0, y21=0 va z22=1 ga teng bo’lsa, hosil bo’lgan psevdotasodifiy qiymatni ko’rsating?";2
+;1;
+;0;
+;10;
+;100;
+184;"A5/1 shifrlash algoritmida registrlar siljiganidan keyingi holat: x18=0, y21=0 va z22=0 ga teng bo’lsa, hosil bo’lgan psevdotasodifiy qiymatni ko’rsating?";2
+;0;
+;1;
+;10;
+;100;
+185;"A5/1 shifrlash algoritmida registrlar siljiganidan keyingi holat: x18=1, y21=1 va z22=1 ga teng bo’lsa, hosil bo’lgan psevdotasodifiy qiymatni ko’rsating?";2
+;1;
+;0;
+;111;
+;11;
+186;"A5/1 shifrlash algoritmida registrlar siljiganidan keyingi holat: x18=1, y21=0 va z22=1 ga teng bo’lsa, hosil bo’lgan psevdotasodifiy qiymatni ko’rsating?";2
+;0;
+;1;
+;110;
+;11;
+187;"A5/1 shifrlash algoritmida registrlar siljiganidan keyingi holat: x18=1, y21=1 va z22=0 ga teng bo’lsa, hosil bo’lgan psevdotasodifiy qiymatni ko’rsating?";2
+;0;
+;1;
+;110;
+;11;
+188;"A5/1 shifrlash algoritmida registrlar siljiganidan keyingi holat: x18=1, y21=0 va z22=0 ga teng bo’lsa, hosil bo’lgan psevdotasodifiy qiymatni ko’rsating?";2
+;1;
+;0;
+;100;
+;10;
+189;"... - ushbu zaxiralash usuli tizim ishlamay turganda yoki foydalanuvchi tomonidan boshqarilmagan vaqtda amalga oshiriladi. Ushbu usul zaxiralashning xavfsiz usuli hisoblanib, ma’lumotni nusxalash xavfidan himoyalaydi.";2
+;Sovuq zaxiralash;
+;Issiq zaxiralash;
+;Iliq zaxiralash;
+;Ichki zaxiralash;
+190;"... - ma’lumotlarni zaxira nusxalashning mazkur usuli amalga keng tarqalgan bo’lib, dinamik yoki aktiv zaxira nusxalash usuli deb ham ataladi. Ushbu usulda foydalanuvchi tizimni boshqarayotgan vaqtda ham zaxira nusxalash jarayoni davom ettiriladi.";2
+;Issiq zaxiralash;
+;Sovuq zaxiralash;
+;Tashqi zaxiralash;
+;Ichki zaxiralash;
+191;Faqat axborotni butunligini ta’minlash usullarini ko’rsating.;2
+;"Xesh funksiyalar, MAC.";
+;Shifrlash usullari.;
+;"Assimetrik shifrlash usullari, CRC tizimlari.";
+;"Shifrlash usullari, CRC tizimlari.";
+192;Qalbakilashtirish hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.;2
+;Biometrik autentifikatsiya.;
+;Biror narsani bilishga asoslangan autentifikatsiya.;
+;Biror narsaga egalik qilishga asoslangan autentifikatsiya.;
+;Tokenga asoslangan autentifikatsiya;
+193;Yo’qolgan holatda almashtirish qaysi turdagi autentifikatsiya usuli uchun eng arzon.;2
+;Parolga asoslangan autentifikatsiya.;
+;Tokenga asoslangan autentifikatsiya.;
+;Biometrik autentifikatsiya.;
+;Ko’z qorachig’iga asoslangan autentifikatsiya.;
+194;“Yelka orqali qarash” hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.;2
+;Parolga asoslangan autentifikatsiya.;
+;Tokenga asoslangan autentifikatsiya.;
+;Biometrik autentifikatsiya.;
+;Ko’z qorachig’iga asoslangan autentifikatsiya.;
+195;Xesh funksiyalarda kolliziya hodisasi bu?;2
+;Ikki turli matnlarning xesh qiymatlarini bir xil bo’lishi.;
+;Cheksiz uzunlikdagi axborotni xeshlay olishi.;
+;Tezkorlikda xeshlash imkoniyati;
+;Turli matnlar uchun turli xesh qiymatlarni hosil bo’lishi.;
+196;Biba modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?;2
+;Butunlik.;
+;Konfidensiallik.;
+;Foydalanuvchanlik.;
+;Maxfiylik.;
+197;Bell-Lapadula modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?;2
+;Konfidensiallik.;
+;Butunlik.;
+;Foydalanuvchanlik.;
+;Ishonchlilik.;
+198;"(Bob,-), (Alisa,rw), (Sem,rw), (buxgalteriyaga oid dastur, rw). Ushbu qoida quyidagilardan qaysi biriga tegishli.";2
+;Foydalanishni boshqarish ro’yxati yoki ACL.;
+;Imtiyozlar ro’yxati yoki C-list.;
+;Foydalanishni boshqari matritsasi.;
+;Biba modeli.;
+199;sub’ekt.lavozimi=Vrach & muhit.vaqt >= 8:00 & muhit.vaqt <=18:00. Ushbu keltirilgan shart qaysi foydalanishni boshqarish usuliga tegishli.;2
+;Attributga asoslangan foydalanishni boshqarish.;
+;Rolga asoslangan foydalanishni boshqarish.;
+;Mandatli foydalanishni boshqarish.;
+;Diskretsion foydalanishni boshqarish.;
+200;"Qoida, siyosat, qoida va siyosatni mujassamlashtirgan algoritmlar, majburiyatlar va maslahatlar kabi tushunchalar qaysi foydalanishni boshqarish usuliga aloqador.";2
+;Attributga asoslangan foydalanishni boshqarish.;
+;Rolga asoslangan foydalanishni boshqarish.;
+;Mandatli foydalanishni boshqarish.;
+;Diskretsion foydalanishni boshqarish.;
+201;Modul arifmetikasida mod11 bo’yicha 5 soniga teskari bo’lgan sonni toping?;2
+;9;
+;55;
+;6;
+;5/11;
+202;Modul arifmetikasida mod11 bo’yicha 4 soniga teskari bo’lgan sonni toping?;2
+;3;
+;44;
+;7;
+;4/11;
+203;Modul arifmetikasida mod11 bo’yicha 3 soniga teskari bo’lgan sonni toping?;2
+;4;
+;33;
+;8;
+;3/11;
+204;Modul arifmetikasida mod9 bo’yicha 8 soniga teskari bo’lgan sonni toping?;2
+;8;
+;72;
+;1;
+;8/9;
+205;Modul arifmetikasida mod9 bo’yicha 7 soniga teskari bo’lgan sonni toping?;2
+;4;
+;63;
+;2;
+;7/9;
+206;Modul arifmetikasida mod9 bo’yicha 5 soniga teskari bo’lgan sonni toping?;2
+;2;
+;45;
+;4;
+;5/9;
+207;Modul arifmetikasida mod9 bo’yicha 4 soniga teskari bo’lgan sonni toping?;2
+;7;
+;5;
+;36;
+;4/9;
+208;Modul arifmetikasida mod5 bo’yicha 4 soniga teskari bo’lgan sonni toping?;2
+;4;
+;20;
+;1;
+;4/5;
+209;Modul arifmetikasida mod5 bo’yicha 3 soniga teskari bo’lgan sonni toping?;2
+;2;
+;3;
+;15;
+;3/5;
+210;Modul arifmetikasida mod7 bo’yicha 6 soniga teskari bo’lgan sonni toping?;2
+;6;
+;42;
+;1;
+;6/7;
+211;Modul arifmetikasida mod7 bo’yicha 5 soniga teskari bo’lgan sonni toping?;2
+;3;
+;2;
+;35;
+;5/7;
+212;Modul arifmetikasida mod7 bo’yicha 4 soniga teskari bo’lgan sonni toping?;2
+;2;
+;3;
+;28;
+;4/7;
+213;Modul arifmetikasida mod7 bo’yicha 3 soniga teskari bo’lgan sonni toping?;2
+;5;
+;4;
+;21;
+;3/7;
+214;"WEP, WPA, WPA2 protokollari qaysi simsiz texnologiyada ishlatilgan?";2
+;Wi-Fi;
+;WiMax;
+;Bluetooth;
+;GSM;
+215;Faqat simsiz tarmoqlarga xos bo’lgan zaifliklarni ko’rsating?;2
+;Rouming muammosini mavjudligi;
+;Xizmat ko’rsatishdan voz kechish hujumini mavjudligi;
+;O’rtaga turgan odam hujumini mavjudligi;
+;Zararli dasturlardan foydalanishga asoslangan hujumlarni mavjudligi;
+216;Faqat simsiz tarmoqlarga xos bo’lgan zaifliklarni ko’rsating?;2
+;Nazoratlanmaydigan hududni har doim mavjudligi;
+;Xizmat ko’rsatishdan voz kechish hujumini mavjudligi;
+;O’rtaga turgan odam hujumini mavjudligi;
+;Zararli dasturlardan foydalanishga asoslangan hujumlarni mavjudligi;
+217;Tarmoqlararo ekran vositasi bajarilishiga ko’ra qanday turlarga bo’linadi?;2
+;"Appapat-dasturiy; Dasturiy";
+;"Protokol holatini nazoratlash; vositachi moduli yordamida (proksi)";
+;"Paket filterlari tarmoq sathida ishlaydi; ekspert paketi filterlari; transport sahida ishlaydi; ilova proksilari; ilova sathida ishlaydi.";
+;"Yagona tarmoq himoyasi sxemasi; himoyalangan yopiq va himoyalanmagan ochiq tarmoq segmentli sxema; bo’lingan himoyalangan yopiq va ochiq segmentli tarmoq sxemasi.";
+218;"A5/1 oqimli shifrlash algoritmida maj(0,1,0) funksiyaning natijasini toping?";2
+;0;
+;1;
+;2;
+;3;
+219;Modul arifmetikasida mod11 bo’yicha 6 soniga teskari bo’lgan sonni toping?;2
+;2;
+;6;
+;1/6;
+;1/11;
+220;"A5/1 oqimli shifrlash algoritmida maj(0,1,1) funksiyaning natijasini toping?";2
+;1;
+;0;
+;2;
+;3;
+221;Modul arifmetikasida mod11 bo’yicha 3 soniga teskari bo’lgan sonni toping?;2
+;4;
+;1/3;
+;1/11;
+;5;
+222;Modul arifmetikasida mod7 bo’yicha 4 soniga teskari bo’lgan sonni toping?;2
+;2;
+;4;
+;7;
+;1/4;
+223;Modul arifmetikasida mod7 bo’yicha 3 soniga teskari bo’lgan sonni toping?;2
+;5;
+;7;
+;3;
+;1/3;
+224;"A5/1 oqimli shifrlash algoritmida maj(1,1,0) funksiyaning natijasini toping?";2
+;1;
+;0;
+;3;
+;2;
+225;"A5/1 oqimli shifrlash algoritmida maj(1,1,1) funksiyaning natijasini toping?";2
+;1;
+;0;
+;3;
+;2;
+226;"A5/1 oqimli shifrlash algoritmida maj(1,0,0) funksiyaning natijasini toping?";2
+;0;
+;1;
+;3;
+;2;
+227;"A5/1 oqimli shifrlash algoritmida maj(1,0,1) funksiyaning natijasini toping?";2
+;1;
+;0;
+;2;
+;3;
+228;OSI tarmoq modeli nechta sathdan iborat?;2
+;7;
+;4;
+;6;
+;5;
+229;Elektron axborot saqlovchilardan qayta foydalanishli ma’lumotlarni yo’q qilish usullari orasidan eng ishonchlisini aniqlang.;2
+;Takroriy qayta yozish.;
+;Formatlash.;
+;Shift+Delete buyrug’i yordamida o’chirish;
+;Delete buyrug’i yordamida o’chirish.;
+230;Foydalanishni boshqarish matritsasi satrlar bo’yicha bo’linsa .... hosil bo’ladi.;2
+;Imtiyozlar ro’yxati yoki C-list.;
+;Foydalanishni boshqarish ro’yxati yoki ACL.;
+;Foydalanishni boshqari matritsasi.;
+;Biba modeli.;
+231;Foydalanishni boshqarish matritsasi ustunlar bo’yicha bo’linsa .... hosil bo’ladi.;2
+;Foydalanishni boshqarish ro’yxati yoki ACL.;
+;Imtiyozlar ro’yxati yoki C-list.;
+;Foydalanishni boshqari matritsasi.;
+;Biba modeli.;
+232;"(OT,rx),(buxgalteriyaga oid dastur,rx),(buxgalteriyaga oid ma’lumot,r). Ushbu qoida quyidagilardan qaysi biriga tegishli.";2
+;Imtiyozlar ro’yxati yoki C-list.;
+;Foydalanishni boshqarish ro’yxati yoki ACL.;
+;Foydalanishni boshqari matritsasi.;
+;Biba modeli.;
+233;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 1024 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 256 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;32;
+;64;
+;8;
+234;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 1024 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 2048 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;1024;
+;512;
+;256;
+235;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 1024 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 512 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;32;
+;64;
+;512;
+236;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 256 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 128 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;32;
+;64;
+;256;
+237;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 256 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 1024 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;512;
+;64;
+;1024;
+238;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 512 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 128 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;64;
+;512;
+;32;
+239;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 512 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 256 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;256;
+;512;
+;64;
+240;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 256 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 512 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;256;
+;512;
+;1024;
+241;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 512 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 1024 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;256;
+;1024;
+;512;
+242;"Zaxirilashni amalga oshirishda inson ishtirokini talab etadi; Tabiy ofatlarga yoki o’g’irlashga moyil. Ushbu xususiyat qaysi zaxira nusxalash manziliga tegishli?";2
+;Ichki (onsite) zaxiralash;
+;Tashqi (offsite) zaxiralash;
+;Bulutli tizimda zaxiralash;
+;Barcha javoblar to’g’ri;
+243;"A5/1 oqimli shifrlash algoritmida maj(1,0,0) ga teng bulsa, qaysi registorlar siljiydi?";2
+;"Y, Z";
+;"X, Y";
+;"X, Z";
+;X;
+244;"Qaysi zaxiralash turida ma’lumotni qayta tiklash tezkor, biroq, jarayon sekin va ma’lumotni saqlash uchun ko’p xotira hajmi talab etiladi?";2
+;To’liq zaxiralashda;
+;"&nbsp;O’sib boruvchi zaxiralashda";
+;Differensial zaxiralashda;
+;Barcha zaxiralash turlarida;
+245;"Ma’lumotdan zudlik bilan foydalanishni ta’minlaydi; Kam xarajatlik; Tiklashdagi tezkorlik. Ushbu xususiyat qaysi zaxira nusxalash manziliga tegishli?";2
+;Ichki (onsite) zaxiralash;
+;Tashqi (offsite) zaxiralash;
+;Bulutli tizimda zaxiralash;
+;Barcha javoblar to’g’ri;
+246;Zaxira nusxalash strategiyasi/ rejasi nimadan boshlanadi?;2
+;Tashkilot missiyasi uchun zarur axborotni aniqlashdan;
+;Zaxira nusxalash texnologiyasini tanlashdan;
+;Mos zaxira nusxalash usulini tanlashdan;
+;Zaxira nusxalash uchun xotira qurilmasini tanlashdan;
+247;"Agar foydalanuvchi tarmoq drayveriga kirishga harakat qilsa va u muvaffaqiyatsiz bo’lsa, u Windows OTda qanday audit hodisasi sifatida qayd etiladi?";2
+;Muvaffaqiyatsiz audit;
+;Xatolik;
+;Muvaffaqiyatli audit;
+;Ogohlantirish;
+248;"A5/1 oqimli shifrlash algoritmida maj(0,0,0) ga teng bulsa, qaysi registorlar siljiydi?";2
+;"X, Y, Z";
+;"X, Y";
+;"X, Z";
+;Y;
+249;Foydalanuvchining tizimga muvaffaqiyatli urinishi Windows OTda qanday audit hodisasi sifatida qayd yetiladi?;2
+;Muvaffaqiyatli audit;
+;Ogohlantirish;
+;Muvaffaqiyatsiz audit;
+;Xatolik;
+250;"Juda ahamiyatli emas, lekin kelajakda yuzaga kelishi mumkin bo’lgan muammolarni ko’rsatishi mumkin bo’lgan voqealar Windows OTda qanday hodisa sifatida qayd etiladi?";2
+;Ogohlantirish;
+;Muvaffaqiyatsiz audit;
+;Xatolik;
+;Axborot;
+251;Parolga “tuz”ni qo’shib xeshlashdan maqsad?;2
+;Tahdidchi ishini oshirish.;
+;Murakkab parol hosil qilish.;
+;Murakkab xesh qiymat hosil qilish.;
+;Ya’na bir maxfiy parametr kiritish.;
+252;Ma’lumotni yo’qotish yoki funksionallikni yo’qotish kabi muhim muammoni ko’rsatadigan voqealar Windows OTda qanday hodisa sifatida qayd etiladi?;2
+;Xatolik;
+;Axborot;
+;Ogohlantirish;
+;Muvaffaqiyatsiz audit;
+253;Axborotni foydalanuvchanligini buzishga qaratilgan tahdidlar bu?;2
+;DDOS tahdidlar.;
+;Nusxalash tahdidlari.;
+;Modifikatsiyalash tahdidlari.;
+;O’rtaga turgan odam tahdidi.;
+254;Windows OTda mavjud hodisa turlarini ko’rsating?;2
+;Barcha javoblar to’g’ri;
+;"Xatolik, axborot";
+;"Ogohlantirish, muvaffaqiyatli audit";
+;Muvaffaqiyatsiz audit;
+255;"A5/1 oqimli shifrlash algoritmida maj(1,1,1) ga teng bulsa, qaysi registorlar siljiydi?";2
+;"X, Y, Z";
+;"X, Y";
+;"X, Z";
+;Y;
+256;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 256 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 128 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;32;
+;64;
+;Hisoblash uchun shartlar etarli emas.;
+257;"Agar biror xesh funksiyaga kiruvchi ma’lumot uzunligi 512 bit bo’lganida, chiquvchi qiymat 128 bitga teng bo’lsa, shu funksiyaga 1024 bit ma’lumot kiritilganida chiqish biti necha bitga teng bo’ladi?";2
+;128;
+;256;
+;64;
+;Hisoblash uchun shartlar etarli emas.;
+258;"A5/1 oqimli shifrlash algoritmida maj(0,1,0) ga teng bulsa, qaysi registorlar siljiydi?";2
+;"X, Z";
+;"X, Y";
+;"X, Y, Z";
+;Y;
+259;"A5/1 oqimli shifrlash algoritmida maj(1,0,1) ga teng bulsa, qaysi registorlar siljiydi?";2
+;"X, Z";
+;"X, Y";
+;"X, Y, Z";
+;Y;
+260;Qaysi himoya vositasida mavjud paket shifrlangan holda yangi hosil qilingan mantiqiy paket ichiga kiritiladi?;2
+;Virtual Private Network.;
+;Tarmoqlararo ekran;
+;Antivirus.;
+;Router.;
+261;"Qaysi himoya vositasi tarmoqda uzatilayotgan axborotni butunligi, maxfiyligi va tomonlar autentifikatsiyasini ta’minlaydi?";2
+;Virtual Private Network.;
+;Tarmoqlararo ekran.;
+;Antivirus.;
+;Router.;
+262;Paket filterlari turidagi tarmoqlararo ekran vositasi OSI modelining qaysi sathida ishlaydi?;2
+;Tarmoq sathida.;
+;Transport sathida.;
+;Ilova sathida.;
+;Kanal sathida.;
+263;IPv6 protokolida IP manzilni ifodalashda necha bit ajratiladi.;2
+;128;
+;32;
+;64;
+;4;
+264;GSM tarmog’ida ovozli so’zlashuvlarni shifrlash algoritmi bu?;2
+;A5/1;
+;DES;
+;ÃÎÑÒ;
+;RSA;
+265;Zararli dasturni aniqlashda foydalanilgan yondashuv IDS tizimlarida ham foydalaniladi. Oldin noma’lum bo’lgan zararli dasturlarni aniqlash imkonini beradi. Ushbu xususiyat zararli dasturiy vositalarni aniqlashning qaysi usuliga tegishli?;2
+;Anomaliyaga asoslangan;
+;Barchasiga;
+;Signaturaga asoslangan;
+;O’zgarishni aniqlashga asoslangan;
+266;"Faraz qilaylik tizimdagi barcha fayllarni xeshlab, xesh qiymatlari xavfsiz manzilga saqlangan bo’lsin. U holda vaqti-vaqti bilan ushbu faylning xesh qiymatlari qaytadan xeshlanadi va dastlabki holatdagilari bilan taqqoslanadi. Agar faylning bir yoki bir nechta bitlari o’zgarishga uchragan bo’lsa, u holda xesh qiymatlar bir-biriga mos kelmaydi va natijada uni virus tomonidan zararlangan deb qarash mumkin. Bu zararli dasturiy vositalarni aniqlashning qaysi usuliga misol bo’ladi?";2
+;O’zgarishni aniqlashga asoslangan;
+;Anomaliyaga asoslangan;
+;Barchasiga;
+;Signaturaga asoslangan;
+267;"Foydalanuvchi va administratorga minimal yuklamani yuklaydi, biroq, aniqlangan virusni kichik o’zgartirish orqali ushbu usulni osonlik bilan aldab o’tish mumkin. Ushbu xususiyat zararli dasturiy vositalarni aniqlashning qaysi usuliga tegishli.";2
+;Signaturaga asoslangan;
+;O’zgarishni aniqlashga asoslangan;
+;Anomaliyaga asoslangan;
+;Barchasiga;
+268;Hujumchiga autentifikatsiyani amalga oshirmasdan aylanib o’tib tizimga kirish imkonini beradi. Ushbu xususiyat qaysi zararli dasturiy vositaga tegishli?;2
+;Backdoors;
+;Rootkits;
+;Ransomware;
+;Mantiqiy bombalar;
+269;Elektron raqamli imzo qanday axborotni o’z ichiga olmaydi?;2
+;Elektron hujjatni qabul qiluvchi xususidagi axborotni;
+;Imzo chekilgan sanani;
+;imzo kaliti ta’sirining tugashi muddati;
+;Faylga imzo chekuvchi shaxs xususidagi axborot;
+270;"Mazkur zararli dasturiy ta’minot qurbon kompyuterida mavjud qimmatli fayllarni shifrlaydi yoki qulflab qo’yib, to’lov amalga oshirilishini talab qiladi. Ushbu xususiyat qaysi zararli dasturiy vositaga tegishli?";2
+;Ransomware;
+;Mantiqiy bombalar;
+;Backdoors;
+;Rootkits;
+271;Foydalanishni boshqarishning qaysi usulida asosiy g’oya tizimning ishlash logikasini tashkilotdagi kadrlar vazifasiga yaqinlashtirishga harakat qilinadi?;2
+;RBAC;
+;ABAC;
+;DAC;
+;MAC;
+272;Operatsion tizimlarda keng qo’llaniluvchi foydalanishni boshqarish usuli bu?;2
+;DAC;
+;MAC;
+;RBAC;
+;ABAC;
+273;Tizimdagi shaxsiy obyektlarni himoyalash uchun o’rinli foydalanishni boshqarish usuli bu?;2
+;DAC;
+;MAC;
+;RBAC;
+;ABAC;
+274;Plastik kartadan to’lovni amalga oshirishda mavjud autentifikatsiya usuli qaysi sinfga tegishli?;2
+;Ikki faktorli autentifikatsiya;
+;Bir faktorli autentifikatsiya;
+;Biometrik autentifikatsiya;
+;Tokenga asoslanmagan autentifikatsiya;
+275;Rad etish jarayoni (ERI ga aloqador) bu?;2
+;"foydalanuvchi (A) foydalanuvchi (B)ga haqiqatdan ham ma’lumot jo’natgan bo’lib, uzatilgan ma’lumotni rad etishi mumkin";
+;"foydalanuvchi (B) qabul qilib olingan ma’lumotni o’zgartirib, shu o’zgartirilgan ma’lumotni foydalanuvchi (A) yubordi, deb ta’kidlaydi";
+;"foydalanuvchi (B) ning o’zi ma’lumot tayyorlab, bu soxta ma’lumotni foydalanuvchi (A) yubordi deb da’vo qiladi";
+;"(A) va (B) foydalanuvchilarning o’zaro aloqa tarmog’iga uchinchi bir (V) foydalanuvchi noqonuniy tarzda bog’lanib, ularning o’zaro uzatayotgan ma’lumotlarini o’zgartirgan holda deyarli uzluksiz uzatib turadi";
+276;Quyidagilar orasidan eng quyi dasturlash tilini ko’rsating?;2
+;Assambler;
+;C;
+;C++;
+;Java;
+277;9 soni bilan o’zaro tub bo’lgan sonlarni ko’rsating?;2
+;"10, 8";
+;"6, 10";
+;"18, 6";
+;9 dan tashqari barcha sonlar;
+278;12 soni bilan o’zaro tub bo’lgan sonlarni ko’rsating?;2
+;"11, 13";
+;"14, 26";
+;"144, 4";
+;12 dan tashqari barcha sonlar;
+279;13 soni bilan o’zaro tub bo’lgan sonlarni ko’rsating?;2
+;"5, 7";
+;"12, 26";
+;"14, 39";
+;13 dan tashqari barcha sonlar;
+280;TCP/IP tarmoq modeli nechta sathdan iborat?;2
+;4;
+;7;
+;6;
+;5;
+281;Ushbu hujumda foydalanuvchilarning akkauntlari bloklangani va kredit karta ma’lumotlari blokdan chiqarilishi kerakligi to’g’risidagi ma’lumot foydalanuvchi elektron pochtalariga yuboriladi. Gap qaysi ijtimoiy injineriya turi haqida bormoqda?;2
+;Phishing;
+;Spoofing;
+;DOS;
+;DDOS;
+282;www.PayPai.com manzili www.PayPal.com manzili sifatida yuboriladi. Bu qaysi turdagi hujumga misol bo’ladi?;2
+;Phishing;
+;Spoofing;
+;DDOS;
+;DOS;
+283;"Internetdagi firibgarlikning bir turi bo’lib, uning maqsadi foydalanuvchining maxfiy ma’lumotlaridan, login/parol, foydalanish imkoniyatiga ega bo’lish. Gap qaysi ijtimoiy injineriya yo’nalishi haqida bormoqda?";2
+;Phishing;
+;Spoofing;
+;DDOS;
+;O'rtaga turgan odam;
+284;"Turli xil psixologik usullar va firibgarlik amaliyotining to’plami bo’lib, uning maqsadi firibgarlik yo’li bilan shaxs to’g’risida maxfiy ma’lumotlarni olishdan iborat. Gap nima haqida bormoqda?";2
+;Ijtimoiy injineriya;
+;Kiberhuquq;
+;Kiberetika;
+;Kiberxavfsizlik;
+285;Nima uchun antivirus vositalari to’liq himoyani ta’minlaymaydi?;2
+;Barcha javoblar to’g’ri.;
+;Antivirus ishlab chiqaruvchilar yangi virus uchun namunaviy fayllar yaratguncha virus ishlab chiqaruvchilar tomonidan katta hajmdagi yangi viruslar yaratiladi.;
+;Yangi virus uchun vaksinani tayyorlash yetarlicha ko’p vaqt olishi.;
+;Antivirus dasturi rootkit tipidagi zararli dasturlarni aniqlashda foydasi tegmasligi mumkin.;
+286;Qaysi holatni normal va qaysi holatni normal bo’lmagan deb topish va ushbu ikki holat orasidagi farqni aniqlashga asoslanadi. Ushbu xususiyat zararli dasturiy vositalarni aniqlashning qaysi usuliga tegishli?;2
+;Anomaliyaga asoslangan;
+;Barchasiga;
+;Signaturaga asoslangan;
+;O’zgarishni aniqlashga asoslangan;
+287;Simli lokal tarmoq texnologiyasini ko’rsating?;2
+;Ethernet;
+;Internet;
+;Wi-Fi;
+;WiMax;
+288;Simsiz lokal tarmoq texnologiyasini ko’rsating?;2
+;Wi-Fi;
+;Ethernet;
+;WiMax;
+;Bluetooth;
+289;"Quyidagi ta’rif Windows OTdagi qaysi xodisani tavsiflaydi? Hodisa juda ahamiyatli yemas, lekin kelajakda yuzaga kelishi mumkin bo’lgan muammolarni ko’rsatishi mumkin. Masalan, diskda bo’sh joy kam bo’lsa, ... hodisasi qayd etiladi.";2
+;ogohlantirish;
+;xatolik;
+;axborot;
+;muvaffaqiyatli audit;
+290;Signatura (antiviruslarga aloqador bo’lgan) bu-?;2
+;Fayldan topilgan bitlar qatori.;
+;Fayldagi yoki katalogdagi o’zgarish.;
+;Normal holatdan tashqari holat.;
+;Zararli dastur turi.;
+291;Zararli dasturiy vositalarga qarshi foydalaniluvchi dasturiy vosita bu?;2
+;Antivirus;
+;VPN;
+;Tarmoqlararo ekran;
+;Brandmauer;
+292;Kompyuter viruslarini tarqalish usullarini ko’rsating?;2
+;"Ma’lumot saqlovchilari, Internetdan yuklab olish va elektron pochta orqali.";
+;"Ma’lumot saqlovchilari, Internetdan yuklab olish va skaner qurilmalari orqali.";
+;"Printer qurilmasi, Internetdan yuklab olish va elektron pochta orqali.";
+;Barcha javoblar to’g’ri.;
+293;"Qurbon kompyuteridagi ma’lumotni shifrlab, uni deshifrlash uchun to’lovni amalga oshirishni talab qiluvchi zararli dastur bu-?";2
+;Ransomware.;
+;Mantiqiy bombalar.;
+;Rootkits.;
+;Spyware.;
+294;Internet tarmog’idagi obro’sizlantirilgan kompyuterlar bu-?;2
+;Botnet.;
+;Backdoors.;
+;Adware.;
+;Virus.;
+295;Biror mantiqiy shartni tekshiruvchi trigger va foydali yuklamadan iborat zararli dastur turi bu-?;2
+;Mantiqiy bombalar.;
+;Backdoors.;
+;Adware.;
+;Virus.;
+296;Buzg’unchiga xavfsizlik tizimini aylanib o’tib tizimga kirish imkonini beruvchi zararli dastur turi bu-?;2
+;Backdoors.;
+;Adware.;
+;Virus.;
+;Troyan otlari.;
+297;Razvedka hujumlari bu?;2
+;Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to’plashni maqsad qiladi.;
+;Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.;
+;Foydalanuvchilarga va tashkilotlarda mavjud bo’lgan biror xizmatni cheklashga urinadi.;
+;Tizimni fizik buzishni maqsad qiladi.;
+298;Xavfsizlik siyosati xususiyatlari keltirilgan qatorni ko’rsating?;2
+;Barcha javoblar to’g’ri;
+;"Qisqa va aniq, foydalanuvchan bo’lishi";
+;"Iqtisodiy asoslangan bo’lishi, barqaror bo’lishi";
+;"Tushunarli bo’lishi, amaliy bo’lishi";
+299;Xavfsizlik siyosatlarining afzalliklari keltirilgan qatorni ko’rsating?;2
+;Barcha javoblar to’g’ri;
+;Kuchaytirilgan ma’lumot va tarmoq xavfsizligini ta’minlaydi.;
+;Risklarni kamaytiradi.;
+;Qurilmalardan foydalanish va ma’lumotlar transferining monitoringlanishi va nazoratlanishi ta’minlaydi.;
+300;Tashkilotni himoyalash maqsadida amalga oshirilgan xavfsizlik nazoratini tavsiflovchi yuqori sathli hujjat yoki hujjatlar to’plami bu?;2
+;Xavfsizlik siyosati;
+;Xavfsizlik konsepsiyasi;
+;Xavfsizlik doktorinasi;
+;Tashkilot nizomi;
+301;Ma’lumotni to’liq qayta tiklash qachon samarali amalga oshiriladi?;2
+;Saqlagichda ma’lumot qayta yozilmagan bo’lsa.;
+;Ma’lumotni o’chirish Delete buyrug’i bilan amalga oshirilgan bo’lsa.;
+;Ma’lumotni o’chirish Shifr+Delete buyrug’i bilan amalga oshirilgan bo’lsa.;
+;Formatlash asosida ma’lumot o’chirilgan bo’lsa.;
+301;Zaxira nusxalash manzillarini ko’rsating?;2
+;"Ichki, tashqi va bulutda zaxiralash.";
+;"To’liq, differensial va o’sib boruvchi zaxiralash.";
+;"Issiq, sovuq va iliq zaxiralash.";
+;Barcha javoblar to’g’ri;
+302;Zaxira nusxalash usullarini ko’rsating?;2
+;"Issiq, sovuq va iliq zaxiralash.";
+;"To’liq, differensial va o’sib boruvchi zaxiralash.";
+;"Ichqi, tashqi va bulutda zaxiralash.";
+;Barcha javoblar to’g’ri.;
+303;Qaysi xususiyatlar RAID texnologiyasiga xos emas?;2
+;Shaxsiy kompyuterda foydalanish mumkin.;
+;Serverlarda foydalanish mumkin.;
+;Xatoliklarni nazoratlash mumkin.;
+;"Disklarni &ldquo;qaynoq almashtirish&rdquo; mumkin.";
+304;Faqat ma’lumotni butunligini ta’minlovchi kriptotizimlarni ko’rsating.;2
+;MAC (Xabarlarni autentifikatsiya kodlari) tizimlari.;
+;Elektron raqamli imzo tizimlari.;
+;Ochiq kalitli kriptografik tizimlar.;
+;Barcha javoblar to’g’ri.;
+305;Quyidagi xususiyatlardan qaysi biri elektron raqamli imzo tomonidan ta’minlanadi?;2
+;Axborot butunligini va rad etishdan himoyalash.;
+;Axborot konfidensialligini va rad etishdan himoyalash.;
+;Faqat axborot konfidensialligi.;
+;Faqat axborot butunligi.;
+306;Quyidagi talablardan qaysi biri xesh funksiyaga tegishli emas.;2
+;Bir tomonlama funksiya bo’lmasligi kerak.;
+;Amalga oshirishdagi yuqori tezkorlik.;
+;Turli kirishlar turli chiqishlarni akslantirishi.;
+;Kolliziyaga bardoshli bo’lishi.;
+307;Kriptotizimning to’liq xavfsiz bo’lishi Kerxgofs prinsipiga ko’ra qaysi kattalikning nomalum bo’lishiga asoslanadi?;2
+;Kalit.;
+;Algoritm.;
+;Shifrmatn.;
+;Protokol.;
+308;Risk ta’sirini kamaytirish uchun profilatika choralarini ko’rish zarur. Mazkur harakatlar riskning qaysi darajasi uchun?;2
+;Quyi;
+;Barcha;
+;Yuqori;
+;O’rta;
+309;"Zudlik bilan chora ko’rish talab etilmasada, qisqa vaqtda qarshi harakatlarni qo’llash zarur; Riskni yetarlicha past darajagacha tushirish uchun imkoni boricha nazoratni amalga oshirish kerak. Mazkur harakatlar riskning qaysi darajasi uchun?";2
+;O’rta;
+;Quyi;
+;Barcha;
+;Yuqori;
+310;"Risklarga qarshi zudlikda chora ko’rish zarur; Riskni yetarlicha past darajagacha tushirish uchun nazoratlash vositalarini aniqlash va o’rnatish kerak. Mazkur harakatlar riskning qaysi darajasi uchun?";2
+;Yuqori;
+;O’rta;
+;Quyi;
+;Barcha;
+311;Voqea sodir bo’lishi ehtimoli va ushbu hodisaning axborot texnologiyalari aktivlariga ta’siri bu?;2
+;Risk;
+;Tahdid;
+;Zaiflik;
+;Hujum;
+312;Manbaga zarar keltiradigan ichki yoki tashqi zaiflik ta’sirida tahdid qilish ehtimoli bu?;2
+;Risk;
+;Tahdid;
+;Zaiflik;
+;Hujum;
+313;"Ichki yoki tashqi majburiyatlar natijasida tahdid yoki hodisalarni yuzaga kelishi, yo’qotilishi yoki boshqa salbiy ta’sir ko’rsatishi mumkin bo’lgan voqyea bu?";2
+;Risk;
+;Tahdid;
+;Zaiflik;
+;Hujum;
+314;Belgilangan sharoitlarda tahdidning manbalarga potensial zarar etkazilishini kutish bu?;2
+;Risk;
+;Tahdid;
+;Zaiflik;
+;Hujum;
+315;68 ta belgidan iborat Sezar shifrlash usilida kalitni bilmasdan turib nechta urinishda ochiq matnni aniqlash mumkin?;3
+;67;
+;67!;
+;32;
+;32^2;
+316;"RSA algoritmida p=7, q=5 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;24;
+;35;
+;7;
+;8;
+317;"RSA algoritmida p=13, q=11 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;120;
+;143;
+;11;
+;13;
+318;"RSA algoritmida p=5, q=11 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;40;
+;55;
+;10;
+;11;
+319;"RSA algoritmida p=7, q=11 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;60;
+;77;
+;13;
+;11;
+320;RSA algoritmidagi ochiq va shaxsiy kalitlar uchun qanday munosabat o’rinli?;3
+;Ochiq va shaxsiy kalitlar mod((p-1)*(q-1)) bo’yicha o’zaro teskari.;
+;Ochiq va shaxsiy kalitlar modN bo’yicha o’zaro teskari.;
+;Ochiq va shaxsiy kalitlar mod(p*q) bo’yicha o’zaro teskari.;
+;Ochiq va shaxsiy kalitlar uchun biror munosabat o’rinli emas.;
+320;RSA algoritmidagi ochiq va shaxsiy kalitlar uchun qanday munosabat o’rinli?;3
+;Ochiq va shaxsiy kalitlar mod?(N) bo’yicha o’zaro teskari.;
+;Ochiq va shaxsiy kalitlar modN bo’yicha o’zaro teskari.;
+;Ochiq va shaxsiy kalitlar mod(p*q) bo’yicha o’zaro teskari.;
+;Ochiq va shaxsiy kalitlar uchun biror munosabat o’rinli emas.;
+320;RSA algoritmida ? (N) funksiyasi nimani ko’rsatadi?;3
+;N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsatadi.;
+;N sonidan kichik va tub bo’lgan sonlar miqdorini ko’rsatadi.;
+;N sonidan katta va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsatadi.;
+;N sonidan katta va tub bo’lgan sonlar miqdorini ko’rsatadi.;
+320;"RSA algoritmida p=3, q=11 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;20;
+;33;
+;12;
+;14;
+321;"RSA algoritmida p=3, q=7 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;12;
+;21;
+;8;
+;10;
+322;"RSA algoritmida p=3, q=5 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;8;
+;15;
+;2;
+;7;
+323;"RSA algoritmida p=5, q=19 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;72;
+;95;
+;108;
+;24;
+324;"RSA algoritmida p=7, q=19 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;108;
+;133;
+;72;
+;26;
+325;"RSA algoritmida p=7, q=13 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;72;
+;91;
+;108;
+;20;
+326;"RSA algoritmida p=13, q=11 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;120;
+;143;
+;40;
+;24;
+327;"RSA algoritmida p=5, q=11 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;40;
+;55;
+;120;
+;16;
+328;"RSA algoritmida p=7, q=11 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;60;
+;77;
+;24;
+;18;
+329;"RSA algoritmida p=7, q=5 bo’lsa, N sonidan kichik va u bilan o’zaro tub bo’lgan sonlar miqdorini ko’rsating?";3
+;24;
+;35;
+;60;
+;12;
+330;"RSA algoritmida p=5, q=13, e=7 ga teng bo’lsa, shaxsiy kalitni hisoblang?";3
+;7;
+;13;
+;65;
+;35;
+331;"RSA algoritmida p=5, q=11, e=7 ga teng bo’lsa, shaxsiy kalitni hisoblang?";3
+;23;
+;7;
+;35;
+;24;
+332;"RSA algoritmida p=7, q=11, e=7 ga teng bo’lsa, shaxsiy kalitni hisoblang?";3
+;43;
+;7;
+;11;
+;77;
+333;"RSA algoritmida p=7, q=5, e=5 ga teng bo’lsa, shaxsiy kalitni hisoblang?";3
+;5;
+;7;
+;35;
+;24;
+334;"RSA algoritmida ochiq kalit e=5, N=35 ga teng bo’lsa, M=4 ga teng ochiq matnni shifrlash natijasini ko’rsating?";3
+;9;
+;35;
+;5;
+;7;
+335;"RSA algoritmida ochiq kalit e=5, N=35 ga teng bo’lsa, M=3 ga teng ochiq matnni shifrlash natijasini ko’rsating?";3
+;33;
+;35;
+;5;
+;7;
+336;"RSA algoritmida ochiq kalit e=5, N=35 ga teng bo’lsa, M=2 ga teng ochiq matnni shifrlash natijasini ko’rsating?";3
+;32;
+;35;
+;5;
+;7;
+337;"RSA algoritmida ochiq kalit e=7, N=35 ga teng bo’lsa, M=2 ga teng ochiq matnni shifrlash natijasini ko’rsating?";3
+;23;
+;35;
+;5;
+;7;
+338;"RSA algoritmida ochiq kalit e=7, N=143 ga teng bo’lsa, M=2 ga teng ochiq matnni shifrlash natijasini ko’rsating?";3
+;128;
+;49;
+;11;
+;7;
+339;Rad etishdan himoyalashda ochiq kalitli kriptotizimlarning qaysi xususiyati muhim hisoblanadi.;3
+;Ikkita kalitdan foydalanilgani.;
+;Matematik muammoga asoslanilgani.;
+;Ochiq kalitni saqlash zaruriyati mavjud emasligi.;
+;Shaxsiy kalitni saqlash zarurligi.;
+340;Axborotni qaysi xususiyatlari simmetrik shifrlar yordamida ta’minlanadi.;3
+;Konfidensiallik va butunlik.;
+;Faqat konfidensiallik.;
+;Butunlik va foydalanuvchanlik.;
+;Foydalanuvchanlik va konfidensiallik.;
+341;Blokli simmetrik shifrlashda shifmatndagi bir bitning o’zgarishi deshifrlangan matndagi necha bitning o’zgarishiga olib keladi?;3
+;Kamida bir blokiga;
+;1;
+;Barchasiga;
+;Buni aniqlash imkonsiz;
+342;Oqimli simmetrik shifrlashda shifmatndagi bir bitning o’zgarishi deshifrlangan matndagi necha bitning o’zgarishiga olib keladi?;3
+;1;
+;Barchasiga;
+;Buni aniqlash imkonsiz;
+;2;
+343;A5/1 algoritmidagi Z registor uzunligi nechiga teng?;3
+;23;
+;22;
+;19;
+;21;
+344;A5/1 algoritmidagi Y registor uzunligi nechiga teng?;3
+;22;
+;23;
+;21;
+;19;
+345;A5/1 algoritmidagi X registor uzunligi nechiga teng?;3
+;19;
+;22;
+;23;
+;18;
+346;Yaratilishi uchun faktorlash muammosiga asoslangan ochiq kalitli shifrlash algoritmi nomini ko’rsating?;3
+;RSA;
+;A5/1;
+;El-Gamal;
+;DES;
+347;Elektron raqamli imzoni ochiq kalitli kriptotizimga asoslanishining sababi nimada?;3
+;Ularda 2 ta kalitdan foydalanilishi;
+;Ularning tezkor ekanligi.;
+;Ularning xavfsiz ekanligi.;
+;Foydalanishda qulay ekanligi.;
+348;Elektron raqamli imzo keltirilganlardan qaysi xususiyatni ta’minlamaydi?;3
+;Foydalanuvchanlik;
+;Yaxlitlik;
+;Rad etishdan himoya;
+;Modifikatsiyadan himoya;
+349;Elektron raqamli imzo keltirilganlardan qaysi xususiyatni ta’minlamaydi?;3
+;Konfidensiallik;
+;Yaxlitlik;
+;Rad etishdan himoya;
+;Qalbakilashtirishdan himoya;
+350;Elektron raqamli imzo qanday qilib qo’yilgan imzoni rad eta olmaslikni ta’minlaydi?;3
+;Shaxsiy kalitdan foydalanib imzo qo’yilgani bois.;
+;Ochiq kalitdan foydalanib imzo qo’yilgani bois.;
+;Xesh funksiya bardoshli bo’lgani bois.;
+;Elektron raqamli imzo rad etishdan himoyalamaydi.;
+351;Zararlovchi ob’ektlar turiga ko’ra kompyuter viruslari qanday turlarga bo’linadi?;3
+;"Dasturiy, yuklanuvchi, makroviruslar va ko’p platformali.";
+;Rezident va norezident.;
+;"Shifrlangan, shifrlanmagan va polimorf.";
+;Virus-parazitlar va virus-chervlar.;
+352;Faollashish prinsipiga ko’ra kompyuter viruslari qanday turlarga bo’linadi?;3
+;Rezident va norezident.;
+;"Shifrlangan, shifrlanmagan va polimorf.";
+;Virus-parazitlar va virus-chervlar;
+;"Dasturiy, yuklanuvchi, makroviruslar va ko’p platformali.";
+353;Dastur kodini tashkil qilish yondashuviga ko’ra kompyuter viruslari qanday turlarga bo’linadi?;3
+;"Shifrlangan, shifrlanmagan va polimorf.";
+;Virus-parazitlar va virus-chervlar.;
+;"Dasturiy, yuklanuvchi, makroviruslar va ko’p platformali.";
+;Rezident va norezident.;
+354;Resurslardan foydalanish usuliga ko’ra kompyuter viruslari qanday turlarga bo’linadi?;3
+;Virus-parazitlar va virus-chervlar.;
+;"Shifrlangan, shifrlanmagan va polimorf.";
+;"Dasturiy, yuklanuvchi, makroviruslar va ko’p platformali.";
+;Rezident va norezident.;
+355;..... hujumida hujumchi o’rnatilgan aloqaga suqilib kiradi va aloqani bo’ladi. Nuqtalar o’rniga mos javobni qo’ying.;3
+;O’rtada turgan odam.;
+;Qo’pol kuch.;
+;Parolga qaratilgan.;
+;DNS izi.;
+356;"Agar e - ochiq kalit, d - shaxsiy kalit, M-xabar, H()-xesh funksiya bo’lsa, Sign() - imzolash funksiyasi uchun asosiy parametrlariga asoslangan ko’rinishini ko’rsating?";3
+;"Sign(H(M), d)";
+;"Sign(H(M), e)";
+;"Sign(M, d)";
+;"Sign(M, e)";
+357;username = read_username ( );
+password=read_password();;
+if username is 133th4ck0r:;;
+return ALLOW_LOGIN;;
+if username and passwordare valid:;;
+return ALLOW_LOGIN;;
+else:;;
+return DENY_LOGIN;;
+Ushbu mantiqiy kod zararli dasturiy vositaga tegishli?;3;
+;Backdoors;
+;Adware;
+;Virus;
+;Troyan otlari;
+358;legitimate code;
+if hour is 7 p.m:;;
+crash_computer( );;
+legitimate code;;
+Ushbu mantiqiy kod qaysi zararli dasturiy vositaga tegishli?;3;
+;Mantiqiy bomba.;
+;Backdoors.;
+;Adware.;
+;Virus.;
+359;Seans sathidagi VPN qaysi protokol asosida quriladi?;3
+;TLS;
+;IPSec;
+;L2F;
+;PPTP;
+360;Tarmoq sathidagi VPN qaysi protokol asosida quriladi?;3
+;IPSec;
+;TLS;
+;L2F;
+;PPTP;
+361;Kanal sathidagi VPN qaysi protokollar asosida quriladi?;3
+;"L2F, L2TP va PPTP";
+;TLS va L2F;
+;IPSec va TLS;
+;"L2TP va&nbsp;TLS";
+362;Xodimlarga faqat ruxsat etilgan saytlardan foydalanishga imkon beruvchi himoya vositasi bu?;3
+;Tarmoqlararo ekran.;
+;Virtual Private Network.;
+;Antivirus.;
+;Router.;
+363;Qaysi himoya vositasi yetkazilgan axborotning butunligini tekshiradi?;3
+;Virtual Private Network.;
+;Tarmoqlararo ekran.;
+;Antivirus.;
+;Router.;
+364;Qaysi himoya vositasi tomonlarni autentifikatsiyalash imkoniyatini beradi?;3
+;Virtual Private Network.;
+;Tarmoqlararo ekran.;
+;Antivirus.;
+;Router.;
+365;Foydalanuvchi tomonidan kiritilgan taqiqlangan so’rovni qaysi himoya vositasi yordamida nazoratlash mumkin.;3
+;Tarmoqlararo ekran.;
+;Virtual Private Network.;
+;Antivirus.;
+;Router.;
+366;"Qaysi himoya vositasi mavjud IP - paketni to’liq shifrlab, unga yangi IP sarlavha beradi?";3
+;Virtual Private Network.;
+;Tarmoqlararo ekran.;
+;Antivirus.;
+;Router.;
+367;Ochiq tarmoq yordamida himoyalangan tarmoqni qurish imkoniyatiga ega himoya vositasi bu?;3
+;Virtual Private Network.;
+;Tarmoqlararo ekran.;
+;Antivirus.;
+;Router.;
+368;"Qaysi tarmoq himoya vositasi tarmoq manzili, identifikatorlar, interfeys manzili, port nomeri va boshqa parametrlar yordamida filtrlashni amalga oshiradi.";3
+;Tarmoqlararo ekran.;
+;Antivirus.;
+;Virtual himoyalangan tarmoq.;
+;Hab.;
+369;Ichki tarmoq foydalanuvchilarini tashqi tarmoqqa bo’lgan murojaatlarini chegaralash qaysi himoya vositasining vazifasi hisoblanadi.;3
+;Tarmoqlararo ekran.;
+;Antivirus.;
+;Virtual himoyalangan tarmoq.;
+;Router.;
+370;Tashqi tarmoqdagi foydalanuvchilardan ichki tarmoq resurslarini himoyalash qaysi himoya vositasining vazifasi hisoblanadi.;3
+;Tarmoqlararo ekran.;
+;Antivirus.;
+;Virtual himoyalangan tarmoq.;
+;Router.;
+371;"Biba modelida birinchi ob’ektning ishonchlilik darajasi I(O1) ga va ikkinchi ob’ektning ishonchlilik darajasi I(O2) ga teng bo’lsa, u holda ushbu ikkita ob’ektdan iborat bo’lgan uchinchi ob’ektning ishonchlilik darajasi nimaga teng bo’ladi? Bu yerda, I(O1)<I(O2).";3
+;I(O1).;
+;I(O2).;
+;I(O2) va I(O2) ga bog’liq emas.;
+;Berilgan shartlar yetarli emas.;
+372;Qaysi turdagi shifrlash vositasida shifrlash jarayonida boshqa dasturlar kabi kompyuter resursidan foydalanadi?;3
+;Dasturiy.;
+;Apparat.;
+;Simmetrik.;
+;Ochiq kalitli.;
+373;"Agar biz O1 ob’ektning butunligiga ishonsak, biroq O2 ob’ektning butunligiga ishonmasak, u holda ob’ekt O ikkita O1 va O2 - ob’ektlardan yaratilgan bo’lsa, u holda ob’ekt O-ning butunligiga ishonmaymiz. Bu qaysi modelni anglatadi?";3
+;Biba modelini.;
+;Bell-Lapadula modelini.;
+;Biror bir modelga tegishli emas.;
+;Biba va Bell-Lapadula modellari kombinatsiyasini.;
+374;"Bell-Lapadula modelida birinchi ob’ektning xavfsizlik darajasi L(O1) ga va ikkinchi ob’ektning xavfsizlik darajasi L(O2) ga teng bo’lsa, ushbu ikkita ob’ektdan iborat bo’lgan uchinchi ob’ektning xavfsizlik darajasi nimaga teng bo’ladi? Bu yerda, L(O1)>L(O2).";3
+;L(O1);
+;L(O2);
+;L(O1) va L(O2) ga bog’liq emas.;
+;Berilgan shartlar yetarli emas.;
+375;"Biba modelida birinchi ob’ektning ishonchlilik darajasi I(O1) ga va ikkinchi ob’ektning ishonchlilik darajasi I(O2) ga teng bo’lsa, ushbu ikkita ob’ektdan iborat bo’lgan uchinchi ob’ektning ishonchlilik darajasi nimaga teng bo’ladi? Bu yerda, I(O1)>I(O2).";3
+;I(O2);
+;I(O1);
+;I(O2) va I(O2) ga bog’liq emas.;
+;Berilgan shartlar yetarli emas.;
+376;RAID 3 texnologiyasiga xos xususiyatni ko'rsating?;3
+;diskni navbatlanishi va xatolikni nazoratlash;
+;faqat diskni navbatlanishi;
+;faqat diskni akslantirish;
+;bloklarni navbatlash va akslantirish;
+377;RAID 1 texnologiyasiga xos xususiyatni ko'rsating?;3
+;diskni akslantirish;
+;bitta diskda saqlash;
+;diskni navbatlanishi va xatolikni nazoratlash;
+;bloklarni navbatlash va bitta diskda saqlash;
+378;"RAID 0 texnologiyasining vazifasi;";3
+;diskni navbatlanishi;
+;diskni akslantirish;
+;diskni navbatlanishi va xatolikni nazoratlash;
+;bloklarni navbatlash va akslantirish;
+379;"Agar ob’ektning xavfsizlik darajasi sub’ektning xavfsizlik darajasidan kichik yoki teng bo’lsa, u holda O’qish uchun ruxsat beriladi. Ushbu qoida qaysi foydalanishni boshqarish usuliga tegishli.";3
+;MAC;
+;DAC;
+;RMAC;
+;ABAC;
+380;"Bell-Lapadula modelida birinchi ob’ektning xavfsizlik darajasi L(O1) ga, ikkinchi ob’ektning xavfsizlik darajasi L(O2) ga va uchinchi ob’ektning xavfsizlik darajasi L(O3) teng bo’lsa, u holda ushbu uchta ob’ektdan iborat bo’lgan to’rtinchi ob’ektning xavfsizlik darajasi nimaga teng bo’ladi? Bu yerda, L(O1)<L(O2)<L(O3).";3
+;L(O3).;
+;L(O1).;
+;L(O2).;
+;Berilgan shartlar yetarli emas.;
+381;"Bell-Lapadula modelida birinchi ob’ektning xavfsizlik darajasi L(O1) ga va ikkinchi ob’ektning xavfsizlik darajasi L(O2) ga teng bo’lsa, u holda ushbu ikkita ob’ektdan iborat bo’lgan uchinchi ob’ektning xavfsizlik darajasi nimaga teng bo’ladi? Bu yerda, L(O1)<L(O2).";3
+;L(O2).;
+;L(O1).;
+;L(O1) va L(O2) ga bog’liq emas.;
+;Berilgan shartlar yetarli emas.;
+382;"Biba modelida birinchi ob’ektning ishonchlilik darajasi I(O1) ga, ikkinchi ob’ektning ishonchlilik darajasi I(O2) ga va uchinchi ob’ektning ishonchlilik darajasi I(O3) teng bo’lsa, u holda ushbu uchta ob’ektdan iborat bo’lgan to’rtinchi ob’ektning ishonchlilik darajasi nimaga teng bo’ladi? Bu yerda, I(O1)>I(O2)>I(O3).";3
+;I(O3).;
+;I(O2).;
+;I(O1).;
+;Berilgan shartlar yetarli emas.;
